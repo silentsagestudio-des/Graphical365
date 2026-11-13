@@ -1,6 +1,7 @@
 import { useRouter } from "next/router";
 import { useRef, useState, useEffect } from "react";
 import { getTodaySlug } from "../lib/today";
+import { setPendingDirection } from "../lib/navDirection";
 
 const DAYS_IN_MONTH_BY_NAME = {
   January: 31,
@@ -85,6 +86,17 @@ export default function DayDial({ designers, current }) {
       return;
     }
 
+    // The portrait's slide-in direction depends on which side of the dial
+    // the clicked day is sitting on right now (before the ring starts
+    // moving): a day on the left slides the new portrait in right-to-left,
+    // a day on the right slides it in left-to-right.
+    if (slug) {
+      const effectiveAngle =
+        ((fixedAngle(targetDay, monthDays) + rotation) % 360 + 360) % 360;
+      const isLeftSide = effectiveAngle > 180;
+      setPendingDirection(isLeftSide ? "fromRight" : "fromLeft");
+    }
+
     animatingRef.current = true;
     setDisplayDay(targetDay);
     setRotation((prev) => {
@@ -108,6 +120,19 @@ export default function DayDial({ designers, current }) {
       spinTo(today.day, today.slug);
     } else if (today.slug !== current.slug) {
       router.push(`/day/${today.slug}`);
+    }
+  };
+
+  // Jumping to a different month swaps the whole ring (different day count,
+  // different set of designers), so it's a plain navigation rather than a
+  // same-ring spin — lands on day 1 of the chosen month.
+  const handleMonthChange = (monthName) => {
+    if (monthName === current.month) return;
+    const target =
+      designers.find((d) => d.month === monthName && d.day === 1) ||
+      designers.find((d) => d.month === monthName);
+    if (target && target.slug !== current.slug) {
+      router.push(`/day/${target.slug}`);
     }
   };
 
@@ -182,7 +207,20 @@ export default function DayDial({ designers, current }) {
           <button type="button" className="today-link" onClick={handleToday}>
             Today
           </button>
-          <div className="month-pill">{displayed.month}</div>
+          <div className="month-pill-wrap">
+            <select
+              className="month-pill"
+              value={displayed.month}
+              onChange={(e) => handleMonthChange(e.target.value)}
+              aria-label="Jump to month"
+            >
+              {Object.keys(DAYS_IN_MONTH_BY_NAME).map((monthName) => (
+                <option key={monthName} value={monthName}>
+                  {monthName}
+                </option>
+              ))}
+            </select>
+          </div>
         </div>
       </div>
     </div>

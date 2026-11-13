@@ -77,7 +77,11 @@
     "line1": "Swiss graphic artist and illustrator; principal designer for the Munich-based dtv paperback publishing house for over three decades.",
     "line2": "Known for designing nearly all of dtv's paperback covers and typography, prize-winning Swiss poster art, and the illustrated Vogelbuch.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Celestino_Piatti",
+      "portfolio": "https://a-g-i.org/user/celestinopiatti"
+    }
   },
   {
     "slug": "jan-06",
@@ -89,7 +93,11 @@
     "line1": "American painter and art educator based in Boston; professor at the Massachusetts Normal Art School in the early 1900s.",
     "line2": "Known for creating the Munsell color system, founding the Munsell Color Company, and standardizing color notation for science and industry.",
     "category": "Fine Artists & Photographers",
-    "categoryCode": "F&P"
+    "categoryCode": "F&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Albert_Henry_Munsell",
+      "portfolio": "https://library.si.edu/digital-library/book/atlasmunsellcol00muns"
+    }
   },
   {
     "slug": "jan-07",
@@ -101,7 +109,11 @@
     "line1": "American cartoonist based in New York City; longtime contributor to The New Yorker magazine for over five decades.",
     "line2": "Known for creating The Addams Family characters, his macabre single-panel cartoons, and inspiring the hit TV series and films.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Charles_Addams",
+      "portfolio": "https://www.metmuseum.org/art/collection/search/853580"
+    }
   },
   {
     "slug": "jan-08",
@@ -113,7 +125,11 @@
     "line1": "English printer and typeface designer based in Birmingham; a leading figure of 18th-century fine printing.",
     "line2": "Known for creating the Baskerville typeface, pioneering smoother paper and richer ink for sharper printing, and his acclaimed edition of Virgil.",
     "category": "Typographers & Type Designers",
-    "categoryCode": "T&T"
+    "categoryCode": "T&T",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/John_Baskerville",
+      "portfolio": "https://www.myfonts.com/collections/john-baskerville"
+    }
   },
   {
     "slug": "jan-09",
@@ -125,7 +141,11 @@
     "line1": "Spanish-born American illustrator and poster artist based in Austin and San Francisco; pioneer of the designer toy movement.",
     "line2": "Known for reviving rock concert poster art in the 1980s-90s, Man's Ruin Records cover art, and designer vinyl toys at Kidrobot.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Frank_Kozik",
+      "portfolio": "https://americanart.si.edu/artist/frank-kozik-7245"
+    }
   },
   {
     "slug": "jan-10",
@@ -137,7 +157,11 @@
     "line1": "Italian-born graphic and industrial designer based in New York; co-founder of Vignelli Associates.",
     "line2": "Known for the 1972 New York City subway map, the American Airlines logo, and decades of modernist corporate identity work.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Massimo_Vignelli",
+      "portfolio": "https://www.moma.org/collection/works/89300"
+    }
   },
   {
     "slug": "jan-11",
@@ -149,7 +173,11 @@
     "line1": "Italian-born Mexican surrealist artist and designer based in Mexico City; trained as an architect before turning to art.",
     "line2": "Known for creating the iconic Hand Chair, hallucinatory paintings of imaginary architecture, and blending surrealism with Mexican folk motifs.",
     "category": "Digital, Motion & Product Designers",
-    "categoryCode": "D&P"
+    "categoryCode": "D&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Pedro_Friedeberg",
+      "portfolio": "https://www.artsy.net/artist/pedro-friedeberg"
+    }
   },
   {
     "slug": "jan-12",
@@ -161,7 +189,11 @@
     "line1": "American graphic designer based in New York; longtime art director and creative director at Columbia Records.",
     "line2": "Known for designing thousands of album covers, including Bob Dylan's Greatest Hits, Born to Run, and Chicago's evolving logo artwork.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/John_Berg_(art_director)",
+      "portfolio": "https://www.moma.org/collection/works/189432"
+    }
   },
   {
     "slug": "jan-13",
@@ -173,7 +205,11 @@
     "line1": "Japanese graphic designer based in Tokyo; a leading figure in postwar Japanese design and a founding member of Nippon Design Center.",
     "line2": "Known for his geometric Nihon Buyo poster, branding for Issey Miyake and Muji, and merging traditional Japanese aesthetics with modernism.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Ikko_Tanaka",
+      "portfolio": "https://www.moma.org/collection/works/6066"
+    }
   },
   {
     "slug": "jan-14",
@@ -185,7 +221,11 @@
     "line1": "American cartoonist based in New York; drew rival comic strips for Pulitzer's and Hearst's newspapers in the 1890s.",
     "line2": "Known for creating The Yellow Kid, widely considered the first newspaper comic strip, and the later strip Buster Brown.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Richard_F._Outcault",
+      "portfolio": "https://cartoons.osu.edu/digital_albums/yellowkid/index.htm"
+    }
   },
   {
     "slug": "jan-15",
@@ -197,7 +237,11 @@
     "line1": "Cuban-born American graphic designer and filmmaker based in New York; pioneer of fast-cut title sequence editing.",
     "line2": "Known for the title sequences for Dr. Strangelove and Bullitt, and the poster art for A Clockwork Orange.",
     "category": "Digital, Motion & Product Designers",
-    "categoryCode": "D&P"
+    "categoryCode": "D&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Pablo_Ferro",
+      "portfolio": "https://www.artofthetitle.com/title/dr-strangelove-or-how-i-learned-to-stop-worrying/"
+    }
   },
   {
     "slug": "jan-16",
@@ -209,7 +253,11 @@
     "line1": "British graphic designer and typographer based in London; co-founder of the design firm Banks & Miles.",
     "line2": "Known for redesigning the London Underground's New Johnston typeface, the British Telecom logo, and Royal Mail's postcode alphabet.",
     "category": "Typographers & Type Designers",
-    "categoryCode": "T&T"
+    "categoryCode": "T&T",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Colin_Banks",
+      "portfolio": "https://collections.vam.ac.uk/context/organisation/A25247/banks-miles"
+    }
   },
   {
     "slug": "jan-17",
@@ -221,7 +269,11 @@
     "line1": "American graphic designer based in London; a founding figure of the design studio that became Pentagram.",
     "line2": "Known for witty conceptual posters and book jackets, founding Fletcher/Forbes/Gill, and his influential design manifesto Forget All the Rules.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Bob_Gill_(artist)",
+      "portfolio": "https://pentagram.com/news/in-memory-of-bob-gill-1931-2021"
+    }
   },
   {
     "slug": "jan-18",
@@ -233,7 +285,11 @@
     "line1": "American graphic designer based in Chicago; the founding art director of Playboy magazine from 1953 to 1982.",
     "line2": "Known for designing the iconic Playboy Rabbit Head logo, shaping the magazine's visual identity, and championing editorial illustration.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Art_Paul",
+      "portfolio": "https://chicagodesignarchive.org/firm/playboy"
+    }
   },
   {
     "slug": "jan-19",
@@ -245,7 +301,11 @@
     "line1": "American graphic designer based in New York; a pioneer of postmodern style in American book and record cover design.",
     "line2": "Known for the album cover for Madonna's Like a Virgin, witty book jackets for major publishers, and teaching at the School of Visual Arts.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Carin_Goldberg",
+      "portfolio": "https://bookdesigners.com/blog/carin-goldberg-problem-solver"
+    }
   },
   {
     "slug": "jan-20",
@@ -257,7 +317,11 @@
     "line1": "American caricaturist based in New York; chronicled Broadway and Hollywood for The New York Times for over 75 years.",
     "line2": "Known for his fluid line caricatures of stage and film stars, and for hiding the name \"NINA\" within his drawings.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Al_Hirschfeld",
+      "portfolio": "https://www.alhirschfeldfoundation.org"
+    }
   },
   {
     "slug": "jan-21",
@@ -269,7 +333,11 @@
     "line1": "German painter and graphic artist based in Lübeck; a leading figure in early 20th-century German commercial art.",
     "line2": "Known for the Niederegger marzipan trademark, poster and map designs for the city of Lübeck, and the Marienkirche's Dance of Death window.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Alfred_Mahlau",
+      "portfolio": "https://global.museum-digital.org/people/191172"
+    }
   },
   {
     "slug": "jan-22",
@@ -281,7 +349,11 @@
     "line1": "Dutch graphic and type designer based in Bussum; a leading figure in late 20th-century typeface design.",
     "line2": "Known for creating the typefaces Demos, Swift, and Gulliver, among the first typefaces made for digital typesetting.",
     "category": "Typographers & Type Designers",
-    "categoryCode": "T&T"
+    "categoryCode": "T&T",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Gerard_Unger",
+      "portfolio": "https://www.myfonts.com/collections/gerard-unger"
+    }
   },
   {
     "slug": "jan-23",
@@ -293,7 +365,11 @@
     "line1": "Italian painter and poster artist based in Florence; known professionally as \"Nano,\" he painted for cinema from the 1940s.",
     "line2": "Known for Italian release posters for Gone with the Wind, Casablanca, and Breakfast at Tiffany's.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Silvano_Campeggi",
+      "portfolio": "https://m.imdb.com/es/list/ls029793626"
+    }
   },
   {
     "slug": "jan-24",
@@ -305,7 +381,11 @@
     "line1": "French poster artist and typeface designer based in Paris; born in Kharkiv, Ukraine, he became a leading figure of Art Deco graphics.",
     "line2": "Known for his Normandie ocean liner poster, the Dubonnet advertising campaign, and typefaces including Bifur and Peignot.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Cassandre",
+      "portfolio": "https://www.moma.org/collection/works/218730"
+    }
   },
   {
     "slug": "jan-25",
@@ -317,7 +397,11 @@
     "line1": "Filipino comic book artist and writer based in Manila; also a theater performer and published playwright.",
     "line2": "Known for creating the graphic novel character Zsazsa Zaturnnah, adapted into a hit film and musical, and winning two National Book Awards.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Carlo_Vergara",
+      "portfolio": "https://artsandculture.google.com/entity/m025xn64"
+    }
   },
   {
     "slug": "jan-26",
@@ -329,7 +413,11 @@
     "line1": "American conceptual artist based in New York and Los Angeles; began her career as a magazine designer and photo editor.",
     "line2": "Known for bold red, white, and black text-and-image works like \"I shop therefore I am\" and \"Your body is a battleground.\"",
     "category": "Fine Artists & Photographers",
-    "categoryCode": "F&P"
+    "categoryCode": "F&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Barbara_Kruger",
+      "portfolio": "https://ocula.com/art-galleries/david-zwirner/artists/barbara-kruger/"
+    }
   },
   {
     "slug": "jan-27",
@@ -341,7 +429,11 @@
     "line1": "Japanese illustrator and game designer based in Tokyo; co-founder and chief character designer at Game Freak.",
     "line2": "Known for designing the original Pokémon creatures, the franchise's box art, and its enduring visual identity.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Ken_Sugimori",
+      "portfolio": "https://bulbapedia.bulbagarden.net/wiki/Sugimori_Art"
+    }
   },
   {
     "slug": "jan-28",
@@ -353,7 +445,11 @@
     "line1": "Japanese manga artist based in Tokyo; a leading figure of the ero guro (erotic grotesque) movement.",
     "line2": "Known for the manga Mr. Arashi's Amazing Freak Show and Panorama of Hell, and a signature style blending beauty with horror.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Suehiro_Maruo",
+      "portfolio": "https://comicarttracker.com/suehiro-maruo-original-art-for-sale"
+    }
   },
   {
     "slug": "jan-29",
@@ -365,7 +461,11 @@
     "line1": "British painter based in London; studied at the Royal College of Art alongside the Pop Art generation.",
     "line2": "Known for flat, bold-outlined still-life and interior paintings, and representing Britain at the 1972 Venice Biennale.",
     "category": "Fine Artists & Photographers",
-    "categoryCode": "F&P"
+    "categoryCode": "F&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Patrick_Caulfield",
+      "portfolio": "https://www.tate.org.uk/art/artists/patrick-caulfield-873"
+    }
   },
   {
     "slug": "jan-30",
@@ -377,7 +477,11 @@
     "line1": "Danish graphic and type designer based in Copenhagen; trained as a sign painter before founding his own studio in 1973.",
     "line2": "Known for creating the FF Signa typeface family, corporate identity and signage systems, and decades of teaching design in Copenhagen.",
     "category": "Typographers & Type Designers",
-    "categoryCode": "T&T"
+    "categoryCode": "T&T",
+    "links": {
+      "profile": "https://archilovers.com/ole-sondergaard",
+      "portfolio": "https://luc.devroye.org/fonts-45747.html"
+    }
   },
   {
     "slug": "jan-31",
@@ -389,7 +493,11 @@
     "line1": "Australian graphic designer and art director based in Berlin; known for a psychedelic, nature-inspired visual style.",
     "line2": "Known for album art for Tame Impala's Innerspeaker and Lonerism, and cover artwork for Bonobo and Foals.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Leif_Podhajsky",
+      "portfolio": "https://leifpodhajsky.com"
+    }
   },
   {
     "slug": "feb-01",
