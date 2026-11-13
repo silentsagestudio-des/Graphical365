@@ -1,0 +1,412 @@
+:root {
+  --pink: #f65ab0;
+  --green: #317e4a;
+  --ink: #141414;
+  --paper: #ffffff;
+  --badge-outline: #de007a;
+  --font-display: "Phudu", "Helvetica Neue", Arial, sans-serif;
+  --font-body: "Barlow", "Helvetica Neue", Arial, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background: var(--pink);
+  color: var(--paper);
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+}
+
+a {
+  color: inherit;
+}
+
+.page {
+  position: relative;
+  min-height: 100vh;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 24px 20px 0;
+  background: var(--pink);
+}
+
+.hero-visual {
+  /* Positioning context for the side watermarks, so they're scoped to the
+     portrait + button block's own height instead of the whole page. */
+  position: relative;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.watermark {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  pointer-events: none;
+  opacity: 0.55;
+  z-index: 0;
+}
+
+.watermark img {
+  display: block;
+  height: 100%;
+  width: auto;
+}
+
+.watermark.left {
+  left: 0;
+}
+
+.watermark.right {
+  right: 0;
+}
+
+.name-heading {
+  /* Source spec: Phudu Medium, 100pt on an 828px-wide reference canvas.
+     Scaled proportionally (100/828 = 12.08vw) so it holds the same
+     relative size across phone widths, clamped to sane floor/ceiling. */
+  position: relative;
+  z-index: 1;
+  font-family: var(--font-display);
+  font-weight: 500; /* Phudu Medium */
+  font-size: clamp(42px, 12.08vw, 90px);
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  text-align: center;
+  width: 94%;
+  max-width: 620px;
+  margin: 2px auto 14px;
+  line-height: 0.95;
+}
+
+.badge-row {
+  position: relative;
+  z-index: 1;
+  width: 94%;
+  max-width: 560px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 12px;
+}
+
+.badge-col {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.badge {
+  /* The rounded-corner triangle is drawn by an inline SVG path (badge-shape)
+     layered behind the label text — a CSS clip-path triangle clips its own
+     border away on the diagonal edges, so it can't produce a rounded stroke;
+     an SVG path can. */
+  position: relative;
+  width: clamp(58px, 10.87vw, 82px);
+  height: clamp(58px, 10.87vw, 82px);
+  flex-shrink: 0;
+}
+
+.badge-shape {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+}
+
+.badge-shape path {
+  /* ~1.5-2px rendered, matching the pill-button border weight. */
+  fill: none;
+  stroke: var(--badge-outline);
+  stroke-width: 2;
+  stroke-linejoin: round;
+  transition: fill 0.2s ease, stroke 0.2s ease;
+}
+
+.badge.active .badge-shape path {
+  fill: var(--paper);
+  stroke: var(--paper);
+}
+
+.badge-label {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-top: 0.6em;
+  font-family: var(--font-body);
+  font-size: clamp(14px, 2.54vw, 20px);
+  font-weight: 500; /* Barlow Medium */
+  letter-spacing: 0.2px;
+  line-height: 1.05;
+  color: var(--badge-outline);
+}
+
+.badge-label span {
+  display: block;
+}
+
+.badge.active .badge-label {
+  color: var(--pink);
+}
+
+.badge-caption {
+  /* Barlow Regular, 12pt on the 828px reference canvas (12/828 = 1.45vw). */
+  margin-top: 6px;
+  width: clamp(80px, 13vw, 100px);
+  font-family: var(--font-body);
+  font-weight: 400; /* Barlow Regular */
+  font-size: clamp(10px, 1.45vw, 13px);
+  line-height: 1.3;
+  text-align: center;
+  opacity: 0.95;
+}
+
+.portrait-circle {
+  position: relative;
+  z-index: 1;
+  width: min(74vw, 430px);
+  height: min(74vw, 430px);
+  border-radius: 50%;
+  background: var(--paper);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  margin: 10px 0 20px;
+}
+
+.portrait-circle img {
+  width: 82%;
+  height: 82%;
+  object-fit: contain;
+}
+
+.portrait-fallback {
+  font-size: 96px;
+  font-weight: 900;
+  color: var(--green);
+  letter-spacing: -2px;
+}
+
+.button-row {
+  /* Profile + Portfolio sit on their own row; Circle sits centered on a
+     second row below (its own .button-row-solo), matching the reference
+     layout rather than relying on the browser's organic wrap. */
+  position: relative;
+  z-index: 1;
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 12px;
+}
+
+.button-row-solo {
+  margin-bottom: 18px;
+}
+
+.pill-button {
+  /* Barlow Medium, 24pt on the 828px reference canvas (24/828 = 2.9vw). */
+  border: 1.5px solid var(--paper);
+  border-radius: 999px;
+  padding: 0.7em 1.5em;
+  font-family: var(--font-body);
+  font-size: clamp(14px, 2.9vw, 19px);
+  font-weight: 500; /* Barlow Medium */
+  letter-spacing: 0.4px;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: var(--paper);
+  background: transparent;
+  cursor: pointer;
+  transition: background 0.2s ease, color 0.2s ease;
+}
+
+.pill-button:hover {
+  background: var(--paper);
+  color: var(--pink);
+}
+
+.dial-wrap {
+  /* Full-bleed: breaks out of .page's side padding so the circle spans the
+     entire device width edge to edge, regardless of that padding value. */
+  position: relative;
+  z-index: 1;
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.dial {
+  /* A complete circle (not a half-dome): every day in the month sits on its
+     own spoke around the full 360deg, with the current day always fixed at
+     the top, under the marker tick. */
+  position: relative;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  background: var(--paper);
+  border-radius: 50%;
+  color: var(--ink);
+  overflow: hidden;
+}
+
+.dial-scroll {
+  /* Each .dial-day sits at its own fixed spoke angle (left/top/--rot come
+     from JS trig and never change); this wrapper is the single thing that
+     rotates. Because CSS transforms compose through nested elements,
+     rotating just this parent both swings every child's point around the
+     center AND adds to each child's own tilt — one animated value spins
+     the whole ring correctly. */
+  position: absolute;
+  inset: 0;
+  transition: transform 750ms cubic-bezier(0.65, 0, 0.35, 1);
+}
+
+.dial-marker {
+  /* Sits on the same angle (straight up) as the current-day number, just
+     further out toward the rim, so it always tracks the current day instead
+     of a fixed pixel offset that can drift as the dial scales. */
+  position: absolute;
+  width: 2px;
+  height: 16px;
+  background: var(--ink);
+  transform: translate(-50%, -50%);
+}
+
+.dial-day {
+  /* Positioned radially: left/top place it on the circle, the translate
+     centers the glyph on that point, and the rotation stands it up along
+     the radius (like a spoke) instead of sitting flat. Now that the dial
+     spans the full device width there's room for all 31 days without
+     crowding, so these sit close to the original Phudu Light reference
+     size (40pt on the 828px canvas = 4.83vw), just capped a bit tighter. */
+  position: absolute;
+  left: var(--x, 50%);
+  top: var(--y, 50%);
+  transform: translate(-50%, -50%) rotate(var(--rot, 0deg));
+  font-family: var(--font-display);
+  font-size: clamp(11px, 2.8vw, 17px);
+  font-weight: 300; /* Phudu Light */
+  color: #c9c9c9;
+  cursor: pointer;
+  user-select: none;
+  background: none;
+  border: none;
+  padding: 0;
+}
+
+.dial-day.current {
+  /* Phudu Medium, 60pt on the 828px reference canvas (60/828 = 7.25vw). */
+  font-size: clamp(30px, 7.25vw, 46px);
+  font-weight: 500; /* Phudu Medium */
+  color: var(--ink);
+}
+
+.dial-day:disabled {
+  color: #e6e6e6;
+  cursor: default;
+}
+
+.dial-center {
+  /* Today + the month pill now live inside the circle, in the open space
+     at its center, instead of below it. */
+  position: absolute;
+  left: 50%;
+  top: 52%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+.today-link {
+  /* Barlow Medium, 24pt on the 828px reference canvas (24/828 = 2.9vw). */
+  background: none;
+  border: none;
+  font-family: var(--font-body);
+  font-weight: 500; /* Barlow Medium */
+  color: var(--ink);
+  text-decoration: underline;
+  font-size: clamp(14px, 2.9vw, 19px);
+  cursor: pointer;
+  padding: 0;
+}
+
+.month-pill {
+  background: var(--pink);
+  color: var(--paper);
+  border: none;
+  border-radius: 999px;
+  padding: 0.5em 1.2em;
+  font-family: var(--font-body);
+  font-weight: 500; /* Barlow Medium */
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  font-size: clamp(13px, 2.9vw, 18px);
+}
+
+.footer {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  max-width: 560px;
+  background: var(--paper);
+  color: var(--ink);
+  margin-top: -1px;
+  padding: 48px 28px 40px;
+  text-align: center;
+  font-size: 15px;
+  line-height: 1.7;
+}
+
+.footer .tagline {
+  color: #bbb;
+  font-weight: 700;
+  font-size: 22px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 18px;
+}
+
+.footer .follow {
+  margin: 20px 0;
+  font-size: 14px;
+}
+
+.footer .follow a {
+  text-decoration: underline;
+  margin: 0 4px;
+}
+
+.footer .story {
+  color: #333;
+  margin-bottom: 18px;
+}
+
+.footer .signature {
+  font-size: 13px;
+  color: #777;
+}
