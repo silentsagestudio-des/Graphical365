@@ -20,6 +20,11 @@ const DAYS_IN_MONTH_BY_NAME = {
 const RADIUS_FRACTION = 0.8;
 const MARKER_RADIUS_FRACTION = 0.95;
 const SPIN_MS = 750;
+// How far into the dial's own 750ms spin the portrait transition starts --
+// firing navigation here instead of waiting for the full spin to finish
+// lets the two motions overlap, so the whole gesture reads as one fast,
+// continuous move instead of two sequential beats.
+const NAV_MS = 600;
 
 // Every day's spoke sits at a fixed angle around the ring, independent of
 // which day is "current" — the ring itself rotates to bring the right spoke
@@ -96,28 +101,37 @@ export default function DayDial({ designers, current }) {
       return;
     }
 
-    // The portrait's slide-in direction depends on which side of the dial
-    // the clicked day is sitting on right now (before the ring starts
-    // moving): a day on the left slides the new portrait in right-to-left,
-    // a day on the right slides it in left-to-right.
+    const targetMod = ((-fixedAngle(targetDay, monthDays)) % 360 + 360) % 360;
+    const prevMod = ((rotation % 360) + 360) % 360;
+    const delta = shortestDelta(prevMod, targetMod);
+
+    // The portrait slides in the same rotational sense as the dial itself
+    // -- a clockwise spin (delta > 0) sweeps the numbers past the top
+    // marker left-to-right, so the incoming portrait also moves left-to-
+    // right (enters from the left) instead of fighting the dial's own
+    // sweep direction.
     if (slug) {
-      const effectiveAngle =
-        ((fixedAngle(targetDay, monthDays) + rotation) % 360 + 360) % 360;
-      const isLeftSide = effectiveAngle > 180;
-      setPendingDirection(isLeftSide ? "fromRight" : "fromLeft");
+      setPendingDirection(delta > 0 ? "fromLeft" : "fromRight");
     }
 
     animatingRef.current = true;
     setDisplayDay(targetDay);
-    setRotation((prev) => {
-      const targetMod = ((-fixedAngle(targetDay, monthDays)) % 360 + 360) % 360;
-      const prevMod = ((prev % 360) + 360) % 360;
-      return prev + shortestDelta(prevMod, targetMod);
-    });
+    setRotation((prev) => prev + delta);
+
+    // Prefetch the target page's data now so the eventual navigation has
+    // nothing left to fetch -- removes network/data latency from the gap
+    // between the dial settling and the portrait appearing.
+    if (slug) router.prefetch(`/day/${slug}`);
+
+    // Navigation (and so the portrait's own transition) fires before the
+    // dial's spin visually finishes, so the two motions overlap instead of
+    // running one after another.
+    window.setTimeout(() => {
+      if (slug) router.push(`/day/${slug}`);
+    }, NAV_MS);
 
     window.setTimeout(() => {
       animatingRef.current = false;
-      if (slug) router.push(`/day/${slug}`);
     }, SPIN_MS);
   };
 

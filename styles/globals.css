@@ -61,16 +61,9 @@ a {
   z-index: 0;
   background-color: var(--badge-outline);
   -webkit-mask-repeat: no-repeat;
-  -webkit-mask-position: center;
-  -webkit-mask-size: 110% 100%;
+  -webkit-mask-size: 105% 100%;
   mask-repeat: no-repeat;
-  mask-position: center;
-  /* Letterforms are deliberately cropped by the mark's own internal alpha
-     mask (abstracted "half-letter" look) and that look is intentional.
-     A slight horizontal overscale (zoom-in, re-centered) tightens the
-     residual blank margin between the box edge and the nearest painted
-     pixel without touching the SVG's geometry or that cropped aesthetic. */
-  mask-size: 110% 100%;
+  mask-size: 105% 100%;
 }
 
 .watermark img {
@@ -83,16 +76,27 @@ a {
   /* .page has a fixed 20px horizontal padding, which would otherwise inset
      the watermark that far from the true screen edge; this constant
      offset cancels it out at every viewport width so the mark always
-     sits flush against the actual left/right edge of the screen. */
+     sits flush against the actual left/right edge of the screen. The
+     artwork itself is already flush at its own x=0 edge, so anchoring the
+     mask to the LEFT (instead of center-zooming) pins that flush edge
+     exactly to the box's left edge -- the only thing the slight 105%
+     overscan can ever crop is the inner edge, never the outer one. */
   left: -20px;
   -webkit-mask-image: url("/graphical-mark-left.svg");
   mask-image: url("/graphical-mark-left.svg");
+  -webkit-mask-position: left center;
+  mask-position: left center;
 }
 
 .watermark.right {
+  /* Mirror of .watermark.left: the artwork is flush at its own right edge,
+     so the mask anchors right, pinning that edge to the box's right edge
+     (the true screen edge here). */
   right: -20px;
   -webkit-mask-image: url("/graphical-mark-right.svg");
   mask-image: url("/graphical-mark-right.svg");
+  -webkit-mask-position: right center;
+  mask-position: right center;
 }
 
 .name-heading {
@@ -247,35 +251,52 @@ a {
 
 /* Day-dial navigation slides the incoming portrait in from whichever side
    the clicked day was sitting on: left-side days bring the next portrait in
-   right-to-left, right-side days bring it in left-to-right. */
+   right-to-left, right-side days bring it in left-to-right. Uses the same
+   cubic-bezier easing curve as the dial's own spin (.dial-scroll's 750ms
+   transition) so the two motions share one visual "signature" instead of
+   the dial gliding to a stop and the portrait then snapping in on its own
+   rhythm -- the duration is shorter (550ms) since this animation only
+   starts once the dial has already finished (the portrait swaps in after
+   navigation completes), so matching the dial's full 750ms here would
+   just add dead time rather than smoothness. Opacity reaches full well
+   before the slide finishes (60%) so the image is already clearly visible
+   for most of the glide, and the travel distance is much shorter than
+   before (45% -> 16%) so it reads as a gentle drift into place rather
+   than a dart across the frame. */
 @keyframes slide-in-from-right {
-  from {
-    transform: translateX(45%);
+  0% {
+    transform: translateX(16%);
     opacity: 0;
   }
-  to {
+  60% {
+    opacity: 1;
+  }
+  100% {
     transform: translateX(0);
     opacity: 1;
   }
 }
 
 @keyframes slide-in-from-left {
-  from {
-    transform: translateX(-45%);
+  0% {
+    transform: translateX(-16%);
     opacity: 0;
   }
-  to {
+  60% {
+    opacity: 1;
+  }
+  100% {
     transform: translateX(0);
     opacity: 1;
   }
 }
 
 .portrait-circle img.slide-from-right {
-  animation: slide-in-from-right 420ms ease-out;
+  animation: slide-in-from-right 550ms cubic-bezier(0.65, 0, 0.35, 1);
 }
 
 .portrait-circle img.slide-from-left {
-  animation: slide-in-from-left 420ms ease-out;
+  animation: slide-in-from-left 550ms cubic-bezier(0.65, 0, 0.35, 1);
 }
 
 .portrait-fallback {
@@ -453,7 +474,10 @@ a {
 
 .dial-center {
   /* Today + the month pill now live inside the circle, in the open space
-     at its center, instead of below it. */
+     at its center, instead of below it. Today is taken out of normal flow
+     (see .today-link) so this block's centering is driven by the month
+     pill alone -- the pill's position never shifts no matter how far
+     Today sits above it. */
   position: absolute;
   left: 50%;
   top: 52%;
@@ -461,11 +485,16 @@ a {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 10px;
 }
 
 .today-link {
-  /* Barlow Medium, 24pt on the 828px reference canvas (24/828 = 2.9vw). */
+  /* Barlow Medium, 24pt on the 828px reference canvas (24/828 = 2.9vw).
+     Absolutely positioned, fixed 50px above the month pill's top edge and
+     centered over it -- out of flow so it can never move the pill. */
+  position: absolute;
+  bottom: calc(100% + 50px);
+  left: 50%;
+  transform: translateX(-50%);
   background: none;
   border: none;
   font-family: var(--font-body);
@@ -475,6 +504,7 @@ a {
   font-size: clamp(14px, 2.9vw, 19px);
   cursor: pointer;
   padding: 0;
+  white-space: nowrap;
 }
 
 .month-pill-wrap {
