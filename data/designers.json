@@ -509,7 +509,11 @@
     "line1": "Helsinki-born illustrator and graphic designer based in New York; founder of her own multidisciplinary design studio.",
     "line2": "Known for her Cook in a Book children's series for Phaidon, the book Walk This World, and branding and illustration for Hermès and Google.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Lotta_Nieminen",
+      "portfolio": "https://lottanieminen.com"
+    }
   },
   {
     "slug": "feb-02",
@@ -521,7 +525,11 @@
     "line1": "Mexican printmaker, engraver, and illustrator active in Mexico City; a prolific satirical cartoonist under the Porfirio Díaz regime.",
     "line2": "Known for creating La Calavera Catrina, decades of satirical calavera prints, and illustrations for popular broadsides and chapbooks.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/José_Guadalupe_Posada",
+      "portfolio": "https://www.google.com/search?udm=2&q=José+Guadalupe+Posada+works"
+    }
   },
   {
     "slug": "feb-03",
@@ -533,7 +541,11 @@
     "line1": "Dutch graphic designer and poster artist active in Amsterdam; one of the first women to design film posters in the Netherlands.",
     "line2": "Known for her Art Deco poster for Battleship Potemkin, promotional art for Greta Garbo and Charlie Chaplin films, and 1950s advertising work.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Dolly_Rudeman",
+      "portfolio": "https://www.google.com/search?udm=2&q=Dolly+Rudeman+works"
+    }
   },
   {
     "slug": "feb-04",
@@ -545,7 +557,11 @@
     "line1": "Japanese graphic designer and sculptor based in Tokyo; first Japanese designer inducted into the New York Art Directors Club Hall of Fame.",
     "line2": "Known for the anti-war poster Victory 1945, his 1982 Earth Day poster, and the illusion sculpture Lunch with a Helmet On.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Shigeo_Fukuda",
+      "portfolio": "https://www.google.com/search?udm=2&q=Shigeo+Fukuda+works"
+    }
   },
   {
     "slug": "feb-05",
@@ -557,7 +573,11 @@
     "line1": "American graphic designer based in the San Francisco Bay Area; former creative director at NeXT following her pioneering work at Apple.",
     "line2": "Known for designing the original Macintosh icons and typefaces, including Chicago and Geneva, the Happy Mac, and Clarus the Dogcow.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Susan_Kare",
+      "portfolio": "https://kare.com"
+    }
   },
   {
     "slug": "feb-06",
@@ -569,7 +589,11 @@
     "line1": "German calligrapher and typographer based in Offenbach; longtime professor at the city's design school, the Werkkunstschule/HfG Offenbach.",
     "line2": "Known for the typefaces Salto and Zebra, and for designing Germany's forgery-resistant FE-Schrift license-plate font.",
     "category": "Typographers & Type Designers",
-    "categoryCode": "T&T"
+    "categoryCode": "T&T",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Karlgeorg_Hoefer",
+      "portfolio": "https://www.google.com/search?udm=2&q=Karlgeorg+Höfer+works"
+    }
   },
   {
     "slug": "feb-07",
@@ -581,7 +605,11 @@
     "line1": "Swiss graphic designer and typographer based in Zürich; a leading figure in mid-20th-century Swiss type and signage design.",
     "line2": "Known for the typeface Diethelm Antiqua, the type design Sculptura, and co-authoring the reference book Signet, Signal, Symbol.",
     "category": "Typographers & Type Designers",
-    "categoryCode": "T&T"
+    "categoryCode": "T&T",
+    "links": {
+      "profile": "https://www.deutsche-biographie.de/gnd124253636.html",
+      "portfolio": "https://www.google.com/search?udm=2&q=Walter+Diethelm+works"
+    }
   },
   {
     "slug": "feb-08",
@@ -593,7 +621,11 @@
     "line1": "American graphic designer and typographer based in Los Angeles and New York; art director for New Directions Books.",
     "line2": "Known for modernist book jacket designs for New Directions, including the cover for Lorca's 3 Tragedies, and crossover work in architecture and interior design.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Alvin_Lustig",
+      "portfolio": "https://www.google.com/search?udm=2&q=Alvin+Lustig+works"
+    }
   },
   {
     "slug": "feb-09",
@@ -605,7 +637,11 @@
     "line1": "Spanish artist and designer born in Valencia, based in Barcelona since 1970; founder of Estudio Mariscal.",
     "line2": "Known for creating Cobi, mascot of the 1992 Barcelona Olympics, the 'Bar Cel Ona' logo, and the Duplex stool shown with the Memphis Group.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Javier_Mariscal",
+      "portfolio": "https://en.mariscal.com"
+    }
   },
   {
     "slug": "feb-10",
@@ -617,7 +653,11 @@
     "line1": "German painter based in Düsseldorf; longtime professor at the Düsseldorf Art Academy.",
     "line2": "Known for precise, surrealist-tinged paintings of machines, including typewriters and sewing machines, used as stand-ins for human psychology.",
     "category": "Fine Artists & Photographers",
-    "categoryCode": "F&P"
+    "categoryCode": "F&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Konrad_Klapheck",
+      "portfolio": "https://www.google.com/search?udm=2&q=Konrad+Klapheck+works"
+    }
   },
   {
     "slug": "feb-11",
@@ -629,7 +669,11 @@
     "line1": "British graphic designer and typographer based in London; headed the Royal College of Art's graphic design department from 1964.",
     "line2": "Known for devising Britain's road sign system with Margaret Calvert, including the Transport typeface and the UK's motorway signage, still in use today.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Jock_Kinneir",
+      "portfolio": "https://www.google.com/search?udm=2&q=Jock+Kinneir+works"
+    }
   },
   {
     "slug": "feb-12",
@@ -641,7 +685,11 @@
     "line1": "American graphic designer based in New York; corporate design consultant for the Ford Foundation, Bell Laboratories, and RCA.",
     "line2": "Known for designing The Medium Is the Massage with Marshall McLuhan, War and Peace in the Global Village, and Buckminster Fuller's I Seem to Be a Verb.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Quentin_Fiore",
+      "portfolio": "https://www.google.com/search?udm=2&q=Quentin+Fiore+works"
+    }
   },
   {
     "slug": "feb-13",
@@ -653,7 +701,11 @@
     "line1": "Austrian-born graphic designer based in Hong Kong since 1961; studied under Paul Rand at Yale, dubbed the 'Father of Hong Kong Graphic Design.'",
     "line2": "Known for designing the HSBC hexagon logo, Standard Chartered's Hong Kong banknotes, and corporate identity work for the Hong Kong Jockey Club.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Henry_Steiner",
+      "portfolio": "https://www.google.com/search?udm=2&q=Henry+Steiner+works"
+    }
   },
   {
     "slug": "feb-14",
@@ -665,7 +717,11 @@
     "line1": "[LOW CONFIDENCE] German-Jewish graphic artist from Frankfurt, later a refugee in London; worked for the Frankfurter Zeitung newspaper.",
     "line2": "Known for illustration at the Frankfurter Zeitung until her 1935 dismissal under Nazi laws; work held by the US Holocaust Memorial Museum.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://www.google.com/search?q=Nelly+Schwabacher+designer",
+      "portfolio": "https://www.google.com/search?udm=2&q=Nelly+Schwabacher+works"
+    }
   },
   {
     "slug": "feb-15",
@@ -677,7 +733,11 @@
     "line1": "American street artist and graphic designer based in Los Angeles; founder of OBEY Clothing and the Obey Giant art campaign.",
     "line2": "Known for the 2008 Barack Obama 'Hope' poster, the OBEY Giant sticker campaign, and murals held in the collections of MoMA and the Smithsonian.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Shepard_Fairey",
+      "portfolio": "https://www.obeygiant.com"
+    }
   },
   {
     "slug": "feb-16",
@@ -689,7 +749,11 @@
     "line1": "Italian typographer, type designer, and printer; ran the Duke of Parma's Royal Press (Stamperia Reale) from 1768 until his death in 1813.",
     "line2": "Known for the Bodoni typeface, his Manuale Tipografico specimen book, and acclaimed editions of Horace, Virgil, and Homer's Iliad.",
     "category": "Typographers & Type Designers",
-    "categoryCode": "T&T"
+    "categoryCode": "T&T",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Giambattista_Bodoni",
+      "portfolio": "https://www.google.com/search?udm=2&q=Giambattista+Bodoni+works"
+    }
   },
   {
     "slug": "feb-17",
@@ -701,7 +765,11 @@
     "line1": "Spanish graphic designer based in Madrid; began at record label Hispavox before leading book design for Alianza Editorial from 1966.",
     "line2": "Known for thousands of book covers for Alianza Editorial's 'El Libro de Bolsillo' series, pioneering modular Spanish book design.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Daniel_Gil",
+      "portfolio": "https://www.google.com/search?udm=2&q=Daniel+Gil+works"
+    }
   },
   {
     "slug": "feb-18",
@@ -713,7 +781,11 @@
     "line1": "American photographer based in New York; trained in graphic design before turning to photography in the late 1950s.",
     "line2": "Known for pioneering multi-image photo sequences like 'Chance Meeting' and 'Death Comes to the Old Lady,' and for handwritten text on his prints.",
     "category": "Fine Artists & Photographers",
-    "categoryCode": "F&P"
+    "categoryCode": "F&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Duane_Michals",
+      "portfolio": "https://www.google.com/search?udm=2&q=Duane+Michals+works"
+    }
   },
   {
     "slug": "feb-19",
@@ -725,7 +797,11 @@
     "line1": "British graphic designer and educator based in London; art editor of Design magazine before founding Ken Garland & Associates in 1962.",
     "line2": "Known for writing the 1964 First Things First manifesto, redesigning the CND peace symbol, and authoring Mr Beck's Underground Map.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Ken_Garland",
+      "portfolio": "https://www.google.com/search?udm=2&q=Ken+Garland+works"
+    }
   },
   {
     "slug": "feb-20",
@@ -737,7 +813,11 @@
     "line1": "American graphic designer and typographer based in Los Angeles; founder of Chase Design Group in 1986.",
     "line2": "Known for logo design for Buffy the Vampire Slayer and Madonna's Like a Prayer, and album packaging for Cher and Prince.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Margo_Chase",
+      "portfolio": "https://www.chasedesigngroup.com"
+    }
   },
   {
     "slug": "feb-21",
@@ -749,7 +829,11 @@
     "line1": "Polish-born illustrator and painter based in New York; emigrated as a political refugee in 1981 and taught at the School of Visual Arts.",
     "line2": "Known for surrealist opera posters for New York City Opera, winning the Prix Savignac in 1994, and works held by MoMA and the Smithsonian.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Rafał_Olbiński",
+      "portfolio": "https://www.google.com/search?udm=2&q=Rafał+Olbiński+works"
+    }
   },
   {
     "slug": "feb-22",
@@ -761,7 +845,11 @@
     "line1": "British sculptor, letter-cutter and typeface designer active in the early 20th century, trained under calligrapher Edward Johnston.",
     "line2": "Known for the typefaces Gill Sans and Perpetua, and sculptures including Prospero and Ariel at BBC Broadcasting House.",
     "category": "Typographers & Type Designers",
-    "categoryCode": "T&T"
+    "categoryCode": "T&T",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Eric_Gill",
+      "portfolio": "https://www.google.com/search?udm=2&q=Eric+Gill+works"
+    }
   },
   {
     "slug": "feb-23",
@@ -773,7 +861,11 @@
     "line1": "American graphic designer based in New York; longtime partner at Pentagram known for witty, economical logos and posters.",
     "line2": "Known for the Fine Line Features logo, Amnesty International awareness posters, and winning the 2003 AIGA Medal.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Woody_Pirtle",
+      "portfolio": "https://www.google.com/search?udm=2&q=Woody+Pirtle+works"
+    }
   },
   {
     "slug": "feb-24",
@@ -785,7 +877,11 @@
     "line1": "Brazilian graphic artist based in London; co-founder of the design studio MinaLima, trained in visual communications in Rio de Janeiro.",
     "line2": "Known for the graphic design and prop art of the Harry Potter and Fantastic Beasts films, including the Daily Prophet and Marauder's Map.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/MinaLima",
+      "portfolio": "https://www.minalima.com"
+    }
   },
   {
     "slug": "feb-25",
@@ -797,7 +893,11 @@
     "line1": "French graphic designer based in Paris; co-founder of the politically engaged design collective Grapus in 1970.",
     "line2": "Known for Grapus's protest and cultural posters, the visual identity of the Louvre, and founding the Atelier de Création Graphique.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Pierre_Bernard_(graphic_designer)",
+      "portfolio": "https://www.google.com/search?udm=2&q=Pierre+Bernard+works"
+    }
   },
   {
     "slug": "feb-26",
@@ -809,7 +909,11 @@
     "line1": "Czech painter and graphic designer based in Prague; trained at the Academy of Arts under Karel Svolinský.",
     "line2": "Known for designing the current Czech banknotes and postage stamps, and for politically charged allegorical drawings and posters.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Oldřich_Kulhánek",
+      "portfolio": "https://www.google.com/search?udm=2&q=Oldřich+Kulhánek+works"
+    }
   },
   {
     "slug": "feb-27",
@@ -821,7 +925,11 @@
     "line1": "British industrial designer based in California; former Chief Design Officer at Apple before founding the studio LoveFrom.",
     "line2": "Known for designing the iMac, iPod, iPhone, and iPad, and for shaping Apple's hardware and software design language.",
     "category": "Digital, Motion & Product Designers",
-    "categoryCode": "D&P"
+    "categoryCode": "D&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Jony_Ive",
+      "portfolio": "https://www.lovefrom.com"
+    }
   },
   {
     "slug": "feb-28",
@@ -833,7 +941,11 @@
     "line1": "British graphic designer and filmmaker based in London; co-founder of the design group Hipgnosis.",
     "line2": "Known for Pink Floyd's The Dark Side of the Moon and Animals album covers, and sleeve art for Led Zeppelin and Genesis.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Storm_Thorgerson",
+      "portfolio": "https://www.google.com/search?udm=2&q=Storm+Thorgerson+works"
+    }
   },
   {
     "slug": "mar-01",
@@ -845,7 +957,11 @@
     "line1": "American illustrator and graphic designer trained at Chouinard Art Institute; pioneer of 1960s psychedelic poster art in California.",
     "line2": "Known for pioneering wearable T-shirt art in 1967, corporate branding work, and founding the Artifact, Ink design studio.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Warren_Dayton",
+      "portfolio": "https://www.warrendayton.com/"
+    }
   },
   {
     "slug": "mar-02",
@@ -857,7 +973,11 @@
     "line1": "British graphic design historian and design practitioner based in London; longtime design lecturer and writer.",
     "line2": "Known for the books Suffragettes to She-Devils and Graphic Agitation, chronicling women's and protest graphic design.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Liz_McQuiston",
+      "portfolio": "https://www.google.com/search?udm=2&q=Liz+McQuiston+works"
+    }
   },
   {
     "slug": "mar-03",
@@ -869,7 +989,11 @@
     "line1": "American photographer born in New York; pioneer of 'environmental portraiture' working mid-20th century.",
     "line2": "Known for portraits of Igor Stravinsky and Pablo Picasso, and photographing industrialists within their own settings.",
     "category": "Fine Artists & Photographers",
-    "categoryCode": "F&P"
+    "categoryCode": "F&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Arnold_Newman",
+      "portfolio": "https://www.google.com/search?udm=2&q=Arnold+Newman+works"
+    }
   },
   {
     "slug": "mar-04",
@@ -881,7 +1005,11 @@
     "line1": "American author, illustrator, and paper engineer based in California; former designer at Intervisual Communications.",
     "line2": "Known for the bestselling Bugs pop-up book series, One Red Dot, and the Meggendorfer Prize-winning Elements of Pop-Up.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/David_A._Carter",
+      "portfolio": "https://www.popupbooks.com/"
+    }
   },
   {
     "slug": "mar-05",
@@ -893,7 +1021,11 @@
     "line1": "French designer-colorist based in Paris; founder of the color research studio Atelier 3D Couleur.",
     "line2": "Known for developing the 'Geography of Color' method, the book Colors of the World, and his Colors of France study.",
     "category": "Digital, Motion & Product Designers",
-    "categoryCode": "D&P"
+    "categoryCode": "D&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Jean-Philippe_Lenclos",
+      "portfolio": "https://www.google.com/search?udm=2&q=Jean-Philippe+Lenclos+works"
+    }
   },
   {
     "slug": "mar-06",
@@ -905,7 +1037,11 @@
     "line1": "American graphic designer and artist based in New York; took over husband Alvin Lustig's studio after his death in 1955.",
     "line2": "Known for modernist book covers for Meridian Books and New Directions, architectural signage, and a 2011 AIGA Medal.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Elaine_Lustig_Cohen",
+      "portfolio": "https://www.elainelustigcohen.com/"
+    }
   },
   {
     "slug": "mar-07",
@@ -917,7 +1053,11 @@
     "line1": "Dutch painter based in Paris and later New York; co-founder of the De Stijl art movement and Neoplasticism.",
     "line2": "Known for grid-based abstract paintings in primary colors, Composition with Red, Blue and Yellow, and Broadway Boogie Woogie.",
     "category": "Fine Artists & Photographers",
-    "categoryCode": "F&P"
+    "categoryCode": "F&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Piet_Mondrian",
+      "portfolio": "https://www.google.com/search?udm=2&q=Piet+Mondrian+works"
+    }
   },
   {
     "slug": "mar-08",
@@ -929,7 +1069,11 @@
     "line1": "American type designer and printer based in New York; founder of the Village Press.",
     "line2": "Known for designing over 100 typefaces including Goudy Old Style, Copperplate Gothic, and Kennerley.",
     "category": "Typographers & Type Designers",
-    "categoryCode": "T&T"
+    "categoryCode": "T&T",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Frederic_Goudy",
+      "portfolio": "https://www.google.com/search?udm=2&q=Frederic+Goudy+works"
+    }
   },
   {
     "slug": "mar-09",
@@ -941,7 +1085,11 @@
     "line1": "[LOW CONFIDENCE] Japanese graphic designer and art director working in Tokyo.",
     "line2": "Known for corporate identity, poster, and editorial design work for Japanese clients and design organizations.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://www.google.com/search?udm=2&q=Manabu+Sakamoto+designer",
+      "portfolio": "https://www.google.com/search?udm=2&q=Manabu+Sakamoto+works"
+    }
   },
   {
     "slug": "mar-10",
@@ -953,7 +1101,11 @@
     "line1": "English illustrator, printmaker, and official war artist based in Essex; trained at the Royal College of Art.",
     "line2": "Known for the linocut series Nine London Monuments, war art documenting Dunkirk and North Africa, and Shell poster ads.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Edward_Bawden",
+      "portfolio": "https://www.google.com/search?udm=2&q=Edward+Bawden+works"
+    }
   },
   {
     "slug": "mar-11",
@@ -965,7 +1117,11 @@
     "line1": "American children's book author and illustrator born in Minnesota; leading figure of 1920s-30s picture books.",
     "line2": "Known for writing and illustrating Millions of Cats, The ABC Bunny, and Snow White and the Seven Dwarfs.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Wanda_Gág",
+      "portfolio": "https://www.google.com/search?udm=2&q=Wanda+Gag+works"
+    }
   },
   {
     "slug": "mar-12",
@@ -977,7 +1133,11 @@
     "line1": "Swedish typographer and graphic designer based in Gothenburg; founder of the studio Laudon Design.",
     "line2": "Known for corporate typefaces for Systembolaget and Länsförsäkringar, winning the Berling Prize, and serving as ATypI president.",
     "category": "Typographers & Type Designers",
-    "categoryCode": "T&T"
+    "categoryCode": "T&T",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Anna_Carolina_Laudon",
+      "portfolio": "https://laudon.se/"
+    }
   },
   {
     "slug": "mar-13",
@@ -989,7 +1149,11 @@
     "line1": "American poster artist based in Boston; largely self-taught illustrator active in the 1890s Art Nouveau poster boom.",
     "line2": "Known for her 1895 Boston Sunday Herald poster debut, bold botanical poster designs, and acclaim on both sides of the Atlantic.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Ethel_Reed",
+      "portfolio": "https://www.google.com/search?udm=2&q=Ethel+Reed+works"
+    }
   },
   {
     "slug": "mar-14",
@@ -1001,7 +1165,11 @@
     "line1": "French illustrator and graphic artist based in Paris and London; known for minimalist line-based visual humor.",
     "line2": "Known for the Peace for Paris symbol, the Playtime picture books, and witty illustrations for The New Yorker and others.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Jean_Jullien_(designer)",
+      "portfolio": "https://www.jeanjullien.com/"
+    }
   },
   {
     "slug": "mar-15",
@@ -1013,7 +1181,11 @@
     "line1": "German-born poster designer and typographer who later worked in New York; pioneer of the 'Sachplakat' object-poster style.",
     "line2": "Known for the iconic Priester Matches poster, the Bernhard Gothic typeface, and prolific advertising and packaging design.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Lucian_Bernhard",
+      "portfolio": "https://www.google.com/search?udm=2&q=Lucian+Bernhard+works"
+    }
   },
   {
     "slug": "mar-16",
@@ -1025,7 +1197,11 @@
     "line1": "Belgian-born sculptor, photographer, and graphic artist based in Carrara, Italy since 1970.",
     "line2": "Known for sculpture collaborations with Max Bill, co-founding the Floating Stones Group, and pioneering pinhole photography.",
     "category": "Fine Artists & Photographers",
-    "categoryCode": "F&P"
+    "categoryCode": "F&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Dominique_Stroobant",
+      "portfolio": "https://www.google.com/search?udm=2&q=Dominique+Stroobant+works"
+    }
   },
   {
     "slug": "mar-17",
@@ -1037,7 +1213,11 @@
     "line1": "American graphic designer and typographer based in New York; co-founder of the International Typeface Corporation.",
     "line2": "Known for art directing Avant Garde magazine, designing its ligature-heavy logo, and the Avant Garde Gothic typeface.",
     "category": "Typographers & Type Designers",
-    "categoryCode": "T&T"
+    "categoryCode": "T&T",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Herb_Lubalin",
+      "portfolio": "https://www.google.com/search?udm=2&q=Herb+Lubalin+works"
+    }
   },
   {
     "slug": "mar-18",
@@ -1049,7 +1229,11 @@
     "line1": "American illustrator based in Los Angeles; renowned painter of movie poster key art from the 1970s through 2000s.",
     "line2": "Known for iconic posters for the Star Wars saga, the Indiana Jones films, and Back to the Future.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Drew_Struzan",
+      "portfolio": "https://www.drewstruzan.com/"
+    }
   },
   {
     "slug": "mar-19",
@@ -1061,7 +1245,11 @@
     "line1": "German-born artist and educator based in the United States; former Bauhaus master and chair of Yale's design department.",
     "line2": "Known for the Homage to the Square painting series, the book Interaction of Color, and influential color theory teaching.",
     "category": "Fine Artists & Photographers",
-    "categoryCode": "F&P"
+    "categoryCode": "F&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Josef_Albers",
+      "portfolio": "https://www.albersfoundation.org/"
+    }
   },
   {
     "slug": "mar-20",
@@ -1073,7 +1261,11 @@
     "line1": "Swiss graphic designer based in Zürich; key figure in developing the International Typographic Style (Swiss Style).",
     "line2": "Known for co-founding the journal Neue Grafik, running his own Zürich advertising studio, and leading Icograda.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Hans_Neuburg",
+      "portfolio": "https://www.google.com/search?udm=2&q=Hans+Neuburg+works"
+    }
   },
   {
     "slug": "mar-21",
@@ -1085,7 +1277,11 @@
     "line1": "American graphic designer based in San Francisco, later Portland; founder of The Office of Michael Manwaring.",
     "line2": "Known for pioneering the postmodern 'Pacific Wave' design movement, Embarcadero Promenade signage, and SFMOMA exhibitions.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Michael_Manwaring",
+      "portfolio": "https://www.manwaring.com/"
+    }
   },
   {
     "slug": "mar-22",
@@ -1097,7 +1293,11 @@
     "line1": "American graphic designer based in Los Angeles; pioneer of California New Wave and early digital design.",
     "line2": "Known for her 'Does It Make Sense?' poster, pioneering Macintosh-made hybrid imagery and type, and leading CalArts design.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/April_Greiman",
+      "portfolio": "https://www.aprilgreiman.com/"
+    }
   },
   {
     "slug": "mar-23",
@@ -1109,7 +1309,11 @@
     "line1": "American graphic designer and artist based in New Haven; founding faculty member of Yale's graphic design program.",
     "line2": "Known for fragmented letterform collages, corporate logos for Knoll International, and the book Eight Symbols.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Norman_Ives",
+      "portfolio": "https://www.google.com/search?udm=2&q=Norman+Ives+works"
+    }
   },
   {
     "slug": "mar-24",
@@ -1121,7 +1325,11 @@
     "line1": "English textile designer and writer based in London; founder of the Arts and Crafts movement and Kelmscott Press.",
     "line2": "Known for iconic wallpaper and textile patterns, the Morris & Co. design firm, and the illuminated Kelmscott Chaucer.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/William_Morris",
+      "portfolio": "https://www.google.com/search?udm=2&q=William+Morris+works"
+    }
   },
   {
     "slug": "mar-25",
@@ -1133,7 +1341,11 @@
     "line1": "American graphic designer and art director based in New York; longtime designer of the Westvaco Inspirations series.",
     "line2": "Known for art directing Mademoiselle and Smithsonian magazines, the Washburn College Bible, and U.S. postage stamp design.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Bradbury_Thompson",
+      "portfolio": "https://www.google.com/search?udm=2&q=Bradbury+Thompson+works"
+    }
   },
   {
     "slug": "mar-26",
@@ -1145,7 +1357,11 @@
     "line1": "French graphic designer based in Paris; founding member of the Alliance Graphique Internationale (AGI).",
     "line2": "Known for his 1949 UNESCO human rights poster, Air France advertising campaigns, and Shell's French Cartoguide road maps.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://fr.wikipedia.org/wiki/Jacques_Nathan-Garamond",
+      "portfolio": "https://www.google.com/search?udm=2&q=Jacques+Nathan-Garamond+works"
+    }
   },
   {
     "slug": "mar-27",
@@ -1157,7 +1373,11 @@
     "line1": "Luxembourg-born American photographer based in New York; former chief photographer at Condé Nast and MoMA photography curator.",
     "line2": "Known for curating the Family of Man exhibition, iconic Vanity Fair celebrity portraits, and pioneering fashion photography.",
     "category": "Fine Artists & Photographers",
-    "categoryCode": "F&P"
+    "categoryCode": "F&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Edward_Steichen",
+      "portfolio": "https://www.google.com/search?udm=2&q=Edward+Steichen+works"
+    }
   },
   {
     "slug": "mar-28",
@@ -1169,7 +1389,11 @@
     "line1": "American graphic designer based in New York; co-founder of the design firm Frankfurt Gips Balkind.",
     "line2": "Known for designing the ESPN and History Channel logos, and movie posters for Alien and Rosemary's Baby.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Philip_Gips",
+      "portfolio": "https://www.google.com/search?udm=2&q=Philip+Gips+works"
+    }
   },
   {
     "slug": "mar-29",
@@ -1181,7 +1405,11 @@
     "line1": "Slovak-born type and graphic designer based in The Hague; founder of the Typotheque type foundry in 1999.",
     "line2": "Known for the Fedra typeface family, pioneering webfonts in 2009, and co-founding the Indian Type Foundry.",
     "category": "Typographers & Type Designers",
-    "categoryCode": "T&T"
+    "categoryCode": "T&T",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Peter_Biľak",
+      "portfolio": "https://www.peterbilak.com/"
+    }
   },
   {
     "slug": "mar-30",
@@ -1193,7 +1421,11 @@
     "line1": "Austrian painter and designer based in Vienna; co-founder of the Vienna Secession and Wiener Werkstätte.",
     "line2": "Known for stained glass and graphics for the Secession, Wiener Werkstätte furniture and jewelry, and postage stamp design.",
     "category": "Fine Artists & Photographers",
-    "categoryCode": "F&P"
+    "categoryCode": "F&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Koloman_Moser",
+      "portfolio": "https://www.google.com/search?udm=2&q=Koloman+Moser+works"
+    }
   },
   {
     "slug": "mar-31",
@@ -1205,7 +1437,11 @@
     "line1": "Swiss-born graphic designer based in Paris; longtime visual identity designer for major French cultural institutions.",
     "line2": "Known for the Centre Pompidou logo, the Musée d'Orsay identity, and France's first highway signage system.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Jean_Widmer",
+      "portfolio": "https://www.google.com/search?udm=2&q=Jean+Widmer+works"
+    }
   },
   {
     "slug": "apr-01",
@@ -1217,7 +1453,11 @@
     "line1": "Canadian letterpress printer and type designer based in New Westminster, British Columbia, who ran the private Pie Tree Press.",
     "line2": "Known for hand-cut metal typefaces including Juliana, Albertan, and Stern, and for his memoir Pie Tree Press.",
     "category": "Typographers & Type Designers",
-    "categoryCode": "T&T"
+    "categoryCode": "T&T",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Jim_Rimmer",
+      "portfolio": "https://www.google.com/search?udm=2&q=Jim+Rimmer+works"
+    }
   },
   {
     "slug": "apr-02",
@@ -1229,7 +1469,11 @@
     "line1": "German-born typographer and book designer who championed modernist New Typography before settling in Switzerland.",
     "line2": "Known for the manifesto Die Neue Typographie, standardizing Penguin Books' postwar design, and the typeface Sabon.",
     "category": "Typographers & Type Designers",
-    "categoryCode": "T&T"
+    "categoryCode": "T&T",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Jan_Tschichold",
+      "portfolio": "https://www.google.com/search?udm=2&q=Jan+Tschichold+works"
+    }
   },
   {
     "slug": "apr-03",
@@ -1241,7 +1485,11 @@
     "line1": "Belgian architect, painter, and designer based in Germany, a leading figure of European Art Nouveau.",
     "line2": "Known for founding the Weimar arts and crafts school that preceded the Bauhaus, Art Nouveau interiors, and total-design theory.",
     "category": "Digital, Motion & Product Designers",
-    "categoryCode": "D&P"
+    "categoryCode": "D&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Henry_van_de_Velde",
+      "portfolio": "https://www.google.com/search?udm=2&q=Henry+van+de+Velde+works"
+    }
   },
   {
     "slug": "apr-04",
@@ -1253,7 +1501,11 @@
     "line1": "American lettering artist, illustrator, and type designer based in the San Francisco Bay Area.",
     "line2": "Known for the viral Daily Drop Cap project, the Should I Work for Free? flowchart, and bestselling typographic picture books.",
     "category": "Typographers & Type Designers",
-    "categoryCode": "T&T"
+    "categoryCode": "T&T",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Jessica_Hische",
+      "portfolio": "https://jessicahische.is"
+    }
   },
   {
     "slug": "apr-05",
@@ -1265,7 +1517,11 @@
     "line1": "Austrian-born graphic designer, painter, and architect; a Bauhaus master who later worked in the United States.",
     "line2": "Known for the geometric Universal typeface, Bauhaus exhibition design, and corporate identity work for Container Corporation of America.",
     "category": "Typographers & Type Designers",
-    "categoryCode": "T&T"
+    "categoryCode": "T&T",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Herbert_Bayer",
+      "portfolio": "https://www.google.com/search?udm=2&q=Herbert+Bayer+works"
+    }
   },
   {
     "slug": "apr-06",
@@ -1277,7 +1533,11 @@
     "line1": "Japanese graphic designer based in Tokyo, a founding figure of postwar Japanese design and co-founder of Nippon Design Center.",
     "line2": "Known for the iconic 1964 Tokyo Olympics poster, Expo '70 graphics, and the NTT corporate logo.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Yusaku_Kamekura",
+      "portfolio": "https://www.google.com/search?udm=2&q=Yusaku+Kamekura+works"
+    }
   },
   {
     "slug": "apr-07",
@@ -1289,7 +1549,11 @@
     "line1": "Finnish graphic designer based in Helsinki, trained at the Central School of Industrial Design.",
     "line2": "Known for designing Finland's 1986 markka banknotes, the Hartwall Jaffa soft-drink branding, and the Finnish nature conservation logo.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Erik_Bruun",
+      "portfolio": "https://bruundesign.com/en"
+    }
   },
   {
     "slug": "apr-08",
@@ -1301,7 +1565,11 @@
     "line1": "American illustrator and fine artist based in San Francisco's North Beach neighborhood.",
     "line2": "Known for album art for Aesop Rock, the bronze Haight Street Bunny public sculpture, and skate graphics for Thrasher and DLX.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Jeremy_Fish",
+      "portfolio": "https://www.google.com/search?udm=2&q=Jeremy+Fish+works"
+    }
   },
   {
     "slug": "apr-09",
@@ -1313,7 +1581,11 @@
     "line1": "Hungarian-born French painter and graphic artist, widely regarded as a founder of the Op Art movement.",
     "line2": "Known for geometric optical-illusion paintings, the Vasarely Museum in Aix-en-Provence, and early kinetic-art experiments.",
     "category": "Fine Artists & Photographers",
-    "categoryCode": "F&P"
+    "categoryCode": "F&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Victor_Vasarely",
+      "portfolio": "https://www.google.com/search?udm=2&q=Victor+Vasarely+works"
+    }
   },
   {
     "slug": "apr-10",
@@ -1325,7 +1597,11 @@
     "line1": "Finnish graphic designer and poster artist based in Helsinki, trained at the Ateneum Art School.",
     "line2": "Known for the award-winning poster Yellow Flowers, Warsaw Poster Biennale honors, and posters held in MoMA's permanent collection.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://a-g-i.org/user/jukkaveistola/",
+      "portfolio": "https://www.google.com/search?udm=2&q=Jukka+Veistola+works"
+    }
   },
   {
     "slug": "apr-11",
@@ -1337,7 +1613,11 @@
     "line1": "American cartoonist based in Chicago and New York, a pioneer among women in newspaper syndication.",
     "line2": "Known for creating Brenda Starr, Reporter in 1940, and receiving the National Cartoonists Society's Milton Caniff Lifetime Achievement Award.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Dale_Messick",
+      "portfolio": "https://www.google.com/search?udm=2&q=Dale+Messick+works"
+    }
   },
   {
     "slug": "apr-12",
@@ -1349,7 +1629,11 @@
     "line1": "American graphic designer based in New York; former art director of Pantheon Books before founding her own studio.",
     "line2": "Known for Italian-inspired restaurant and food packaging identities, including Tate's Bake Shop, and hundreds of book jackets.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Louise_Fili",
+      "portfolio": "https://www.louisefili.com"
+    }
   },
   {
     "slug": "apr-13",
@@ -1361,7 +1645,11 @@
     "line1": "American lettering artist and type designer based in Chicago, active in advertising design in the early 20th century.",
     "line2": "Known for designing the Cooper Oldstyle and Cooper Black typefaces and co-founding the lettering studio Bertsch & Cooper.",
     "category": "Typographers & Type Designers",
-    "categoryCode": "T&T"
+    "categoryCode": "T&T",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Oswald_Bruce_Cooper",
+      "portfolio": "https://www.google.com/search?udm=2&q=Oswald+Bruce+Cooper+works"
+    }
   },
   {
     "slug": "apr-14",
@@ -1373,7 +1661,11 @@
     "line1": "German architect and designer based in Berlin, a pioneer of modern industrial design and corporate identity.",
     "line2": "Known for his comprehensive AEG branding program and for mentoring Walter Gropius, Mies van der Rohe, and Le Corbusier.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Peter_Behrens",
+      "portfolio": "https://www.google.com/search?udm=2&q=Peter+Behrens+works"
+    }
   },
   {
     "slug": "apr-15",
@@ -1385,7 +1677,11 @@
     "line1": "Dutch graphic designer, typographer, and educator based in Amsterdam, active from the 1950s through the 1980s.",
     "line2": "Known for pioneering the Dutch industrial photo book, experimental mathematically inspired typefaces, and the Hoogovens logo.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Jurriaan_Schrofer",
+      "portfolio": "https://www.google.com/search?udm=2&q=Jurriaan+Schrofer+works"
+    }
   },
   {
     "slug": "apr-16",
@@ -1397,7 +1693,11 @@
     "line1": "Hungarian-born animator and producer based in London; co-founder of the Halas and Batchelor studio.",
     "line2": "Known for directing Animal Farm, Britain's first feature-length animated film, and decades of wartime and experimental animation.",
     "category": "Digital, Motion & Product Designers",
-    "categoryCode": "D&P"
+    "categoryCode": "D&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/John_Halas",
+      "portfolio": "https://www.halasandbatchelor.co.uk"
+    }
   },
   {
     "slug": "apr-17",
@@ -1409,7 +1709,11 @@
     "line1": "Japanese graphic artist and illustrator based in Japan, co-founder of the game studio Ancient.",
     "line2": "Known for monster and character designs for Ys, art direction on Streets of Rage 2, and artwork for Sonic the Hedgehog.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://vgdensetsu.net/ayanokoshiro/",
+      "portfolio": "https://www.google.com/search?udm=2&q=Ayano+Koshiro+works"
+    }
   },
   {
     "slug": "apr-18",
@@ -1421,7 +1725,11 @@
     "line1": "Swiss illustrator, graphic designer, and stained-glass artist based in Aarau, Switzerland.",
     "line2": "Known for illustrating Brothers Grimm fairy tales, the award-winning A Boy Went Out to Gather Pears, and windows at Bern Minster.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Felix_Hoffmann_(illustrator)",
+      "portfolio": "https://www.google.com/search?udm=2&q=Felix+Hoffmann+illustrator+works"
+    }
   },
   {
     "slug": "apr-19",
@@ -1433,7 +1741,11 @@
     "line1": "American typographer and graphic designer based in Philadelphia, a pioneer of modern ambigram design.",
     "line2": "Known for the ambigrams in Dan Brown's Angels & Demons, the Da Vinci Code film's bank logo, and the book Wordplay.",
     "category": "Typographers & Type Designers",
-    "categoryCode": "T&T"
+    "categoryCode": "T&T",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/John_Langdon_(typographer)",
+      "portfolio": "https://www.johnlangdon.net"
+    }
   },
   {
     "slug": "apr-20",
@@ -1445,7 +1757,11 @@
     "line1": "Catalan Spanish painter, sculptor, and ceramicist based in Barcelona and Mallorca, a major figure of Surrealism.",
     "line2": "Known for dreamlike biomorphic paintings, the sculpture Woman and Bird in Barcelona, and ceramic murals made with Josep Llorens Artigas.",
     "category": "Fine Artists & Photographers",
-    "categoryCode": "F&P"
+    "categoryCode": "F&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Joan_Miró",
+      "portfolio": "https://www.google.com/search?udm=2&q=Joan+Miro+works"
+    }
   },
   {
     "slug": "apr-21",
@@ -1457,7 +1773,11 @@
     "line1": "German-born Swiss artist who worked across Switzerland, Iceland, and Germany, known for experimental book art.",
     "line2": "Known for artist's books made with perishable materials, chocolate and food sculptures, and the collaborative Flat Waste archive.",
     "category": "Fine Artists & Photographers",
-    "categoryCode": "F&P"
+    "categoryCode": "F&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Dieter_Roth",
+      "portfolio": "https://www.google.com/search?udm=2&q=Dieter+Roth+works"
+    }
   },
   {
     "slug": "apr-22",
@@ -1469,7 +1789,11 @@
     "line1": "German-born illustrator based in the United States after years spent in China; illustrated several hundred children's books.",
     "line2": "Known for illustrating The Story about Ping, the Freddy the Pig series, and the Newbery Medal-winning Young Fu of the Upper Yangtze.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Kurt_Wiese",
+      "portfolio": "https://www.google.com/search?udm=2&q=Kurt+Wiese+works"
+    }
   },
   {
     "slug": "apr-23",
@@ -1481,7 +1805,11 @@
     "line1": "British graphic designer and typographer based in London, former art director of The Face magazine.",
     "line2": "Known for radical 1980s magazine design, founding the typeface foundry FontFont, and co-founding the Fuse type journal.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Neville_Brody",
+      "portfolio": "https://brody-associates.com"
+    }
   },
   {
     "slug": "apr-24",
@@ -1493,7 +1821,11 @@
     "line1": "American graphic designer based in New York; longtime creative director and design chief at CBS.",
     "line2": "Known for safeguarding the CBS Eye logo, the proprietary CBS Didot typeface, and the Gastrotypographicalassemblage wall at CBS headquarters.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Lou_Dorfsman",
+      "portfolio": "https://www.google.com/search?udm=2&q=Lou+Dorfsman+works"
+    }
   },
   {
     "slug": "apr-25",
@@ -1505,7 +1837,11 @@
     "line1": "Swiss-born photographer and graphic designer based in New York; longtime design consultant for Knoll furniture.",
     "line2": "Known for pioneering photomontage in 1930s Swiss tourism posters, Knoll's advertising identity, and teaching design at Yale.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Herbert_Matter",
+      "portfolio": "https://herbertmatter.org"
+    }
   },
   {
     "slug": "apr-26",
@@ -1517,7 +1853,11 @@
     "line1": "French graphic artist, poet, and type designer based in Paris, associated with the cabaret Le Chat Noir.",
     "line2": "Known for designing the Art Nouveau Auriol typeface still used in Paris Metro signage, and for Chat Noir posters and songs.",
     "category": "Typographers & Type Designers",
-    "categoryCode": "T&T"
+    "categoryCode": "T&T",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/George_Auriol",
+      "portfolio": "https://www.google.com/search?udm=2&q=George+Auriol+works"
+    }
   },
   {
     "slug": "apr-27",
@@ -1529,7 +1869,11 @@
     "line1": "Polish graphic designer and illustrator, born in Vilnius and based in Bialystok, Poland.",
     "line2": "Known for his contemporary illustrations of Polish-Lithuanian szlachta coats of arms and the reference book Herbarz polski.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Tadeusz_Gajl",
+      "portfolio": "https://www.google.com/search?udm=2&q=Tadeusz+Gajl+works"
+    }
   },
   {
     "slug": "apr-28",
@@ -1541,7 +1885,11 @@
     "line1": "Latvian painter, graphic artist, and stage designer based in Riga, a leading figure of Latvian modernism.",
     "line2": "Known for introducing Cubist and Constructivist ideas to Latvia, founding the Baltars porcelain workshop, and designing stage sets.",
     "category": "Fine Artists & Photographers",
-    "categoryCode": "F&P"
+    "categoryCode": "F&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Romans_Suta",
+      "portfolio": "https://www.google.com/search?udm=2&q=Romans+Suta+works"
+    }
   },
   {
     "slug": "apr-29",
@@ -1553,7 +1901,11 @@
     "line1": "German-born artist and musician based in Hamburg and London, a close friend of the Beatles from their early days.",
     "line2": "Known for designing the Grammy-winning cover of the Beatles' Revolver, playing bass with Manfred Mann, and the Bee Gees' Idea cover.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Klaus_Voormann",
+      "portfolio": "https://www.voormann.com"
+    }
   },
   {
     "slug": "apr-30",
@@ -1565,7 +1917,11 @@
     "line1": "American animator, cartoonist, and filmmaker based in New York, known for hand-drawn independent animation.",
     "line2": "Known for the Oscar-nominated shorts Your Face and Guard Dog, and the fully hand-drawn feature film The Tune.",
     "category": "Digital, Motion & Product Designers",
-    "categoryCode": "D&P"
+    "categoryCode": "D&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Bill_Plympton",
+      "portfolio": "https://plymptoons.com"
+    }
   },
   {
     "slug": "may-01",
@@ -1577,7 +1933,11 @@
     "line1": "Russian-born graphic designer and photographer based in New York; longtime art director of Harper's Bazaar magazine.",
     "line2": "Known for bold bleed-photography layouts at Harper's Bazaar, mentoring Richard Avedon and Irving Penn, and his Design Laboratory workshop.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Alexey_Brodovitch",
+      "portfolio": "https://www.google.com/search?udm=2&q=Alexey+Brodovitch+works"
+    }
   },
   {
     "slug": "may-02",
@@ -1589,7 +1949,11 @@
     "line1": "Indian filmmaker and graphic designer based in Calcutta; began his career as a book-jacket designer and illustrator at Signet Press.",
     "line2": "Known for designing the Ray Roman and Ray Bizarre typefaces, illustrating his own book covers, and redesigning Pather Panchali's jacket.",
     "category": "Typographers & Type Designers",
-    "categoryCode": "T&T"
+    "categoryCode": "T&T",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Satyajit_Ray",
+      "portfolio": "https://www.google.com/search?udm=2&q=Satyajit+Ray+works"
+    }
   },
   {
     "slug": "may-03",
@@ -1601,7 +1965,11 @@
     "line1": "American photographer and art director based in New York; longtime collaborator with Esquire magazine's George Lois.",
     "line2": "Known for Esquire's iconic 1968 Muhammad Ali 'St. Sebastian' cover and the 1969 Andy Warhol 'drowning in soup' cover.",
     "category": "Fine Artists & Photographers",
-    "categoryCode": "F&P"
+    "categoryCode": "F&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Carl_Fischer_(photographer)",
+      "portfolio": "https://www.google.com/search?udm=2&q=Carl+Fischer+works"
+    }
   },
   {
     "slug": "may-04",
@@ -1613,7 +1981,11 @@
     "line1": "American artist and illustrator based in New York; rose to fame drawing in the city's subway stations in the early 1980s.",
     "line2": "Known for his bold graphic line work, the Radiant Baby icon, and murals and public art promoting social and political causes.",
     "category": "Fine Artists & Photographers",
-    "categoryCode": "F&P"
+    "categoryCode": "F&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Keith_Haring",
+      "portfolio": "https://www.haring.com"
+    }
   },
   {
     "slug": "may-05",
@@ -1625,7 +1997,11 @@
     "line1": "Georgian scenographer and graphic artist based in Tbilisi; pioneer of Georgian avant-garde stage design at the Rustaveli Theatre.",
     "line2": "Known for his expressionist and constructivist set designs, over 50 theatrical productions, and art direction on the film My Grandmother.",
     "category": "Digital, Motion & Product Designers",
-    "categoryCode": "D&P"
+    "categoryCode": "D&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Irakli_Gamrekeli",
+      "portfolio": "https://www.google.com/search?udm=2&q=Irakli+Gamrekeli+works"
+    }
   },
   {
     "slug": "may-06",
@@ -1637,7 +2013,11 @@
     "line1": "Dutch illustrator and information designer based in the Netherlands; pioneer of computer-aided data visualization from the late 1970s.",
     "line2": "Known for winning the 2000 Infographics Annual Award, his detailed editorial infographics, and the illustrated Basic Lines book series.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://www.dutchgraphicroots.nl/?p=6935",
+      "portfolio": "https://www.google.com/search?udm=2&q=Theo+Barten+works"
+    }
   },
   {
     "slug": "may-07",
@@ -1649,7 +2029,11 @@
     "line1": "American scientist and inventor based in Cambridge, Massachusetts; co-founder and longtime president of Polaroid Corporation.",
     "line2": "Known for inventing instant photography, the Polaroid Land Camera, and early synthetic polarizing filters.",
     "category": "Digital, Motion & Product Designers",
-    "categoryCode": "D&P"
+    "categoryCode": "D&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Edwin_Land",
+      "portfolio": "https://www.google.com/search?udm=2&q=Edwin+Land+works"
+    }
   },
   {
     "slug": "may-08",
@@ -1661,7 +2045,11 @@
     "line1": "American graphic designer and filmmaker based in Los Angeles; among the most influential corporate-logo and title designers of the 20th century.",
     "line2": "Known for the opening titles of Vertigo and Psycho, the AT&T and United Airlines logos, and the poster for The Man with the Golden Arm.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Saul_Bass",
+      "portfolio": "https://www.google.com/search?udm=2&q=Saul+Bass+works"
+    }
   },
   {
     "slug": "may-09",
@@ -1673,7 +2061,11 @@
     "line1": "Swiss graphic designer and teacher based in Zurich; leading figure of the International Typographic (Swiss) Style.",
     "line2": "Known for his grid-based concert posters for the Zurich Tonhalle, the book Grid Systems in Graphic Design, and co-founding Neue Grafik magazine.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Josef_Müller-Brockmann",
+      "portfolio": "https://www.google.com/search?udm=2&q=Josef+Müller-Brockmann+works"
+    }
   },
   {
     "slug": "may-10",
@@ -1685,7 +2077,11 @@
     "line1": "[LOW CONFIDENCE] French graphic and interaction designer based in Paris; pioneer of early 2000s digital interface and web design.",
     "line2": "Known for designing the Slash culture magazine's website, Ora-Ito's online identity, and influential interactive portfolio work.",
     "category": "Digital, Motion & Product Designers",
-    "categoryCode": "D&P"
+    "categoryCode": "D&P",
+    "links": {
+      "profile": "https://fontsinuse.com/designers/856/arnaud-mercier",
+      "portfolio": "https://www.google.com/search?udm=2&q=Arnaud+Mercier+works"
+    }
   },
   {
     "slug": "may-11",
@@ -1697,7 +2093,11 @@
     "line1": "Spanish surrealist painter and designer based in Catalonia; one of the most prominent artists of the 20th-century avant-garde.",
     "line2": "Known for The Persistence of Memory, his collaborations with Alfred Hitchcock and Walt Disney, and the Chupa Chups logo design.",
     "category": "Fine Artists & Photographers",
-    "categoryCode": "F&P"
+    "categoryCode": "F&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Salvador_Dalí",
+      "portfolio": "https://www.salvador-dali.org"
+    }
   },
   {
     "slug": "may-12",
@@ -1709,7 +2109,11 @@
     "line1": "British typographer and publisher based in London; founder of the Nonesuch Press in 1922.",
     "line2": "Known for founding the Nonesuch Press, elevating British book design with modern classical typography, and his influential advertising work at Mather & Crowther.",
     "category": "Typographers & Type Designers",
-    "categoryCode": "T&T"
+    "categoryCode": "T&T",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Francis_Meynell",
+      "portfolio": "https://www.google.com/search?udm=2&q=Francis+Meynell+works"
+    }
   },
   {
     "slug": "may-13",
@@ -1721,7 +2125,11 @@
     "line1": "German graphic designer and typographer based in Ulm; co-founder of the Ulm School of Design (Hochschule für Gestaltung).",
     "line2": "Known for the pictogram system and visual identity for the 1972 Munich Olympics, Lufthansa's corporate identity, and the Rotis typeface.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Otl_Aicher",
+      "portfolio": "https://www.google.com/search?udm=2&q=Otl+Aicher+works"
+    }
   },
   {
     "slug": "may-14",
@@ -1733,7 +2141,11 @@
     "line1": "American typographer and book designer based in New England and New York; one of the most celebrated figures in 20th-century fine printing.",
     "line2": "Known for designing the Centaur typeface, the Oxford Lectern Bible, and hundreds of elegantly crafted limited-edition books.",
     "category": "Typographers & Type Designers",
-    "categoryCode": "T&T"
+    "categoryCode": "T&T",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Bruce_Rogers_(typographer)",
+      "portfolio": "https://www.google.com/search?udm=2&q=Bruce+Rogers+works"
+    }
   },
   {
     "slug": "may-15",
@@ -1745,7 +2157,11 @@
     "line1": "Italian artist and designer based in Varese; leading figure in geometric and kinetic abstraction since the 1960s.",
     "line2": "Known for his black-and-white op-art reliefs and sculptures, architectural facade designs, and museum exhibition design work.",
     "category": "Fine Artists & Photographers",
-    "categoryCode": "F&P"
+    "categoryCode": "F&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Marcello_Morandini",
+      "portfolio": "https://www.google.com/search?udm=2&q=Marcello+Morandini+works"
+    }
   },
   {
     "slug": "may-16",
@@ -1757,7 +2173,11 @@
     "line1": "Japanese-American graphic designer based in New York; art director at Columbia Records starting in 1954.",
     "line2": "Known for the Dave Brubeck Time Out album cover, the original book jacket for The Godfather, and album art for Charles Mingus and Miles Davis.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/S._Neil_Fujita",
+      "portfolio": "https://www.google.com/search?udm=2&q=S.+Neil+Fujita+works"
+    }
   },
   {
     "slug": "may-17",
@@ -1769,7 +2189,11 @@
     "line1": "Norwegian photographer and graphic designer based in Oslo; trained at the ArtCenter College of Design in California.",
     "line2": "Known for his influential 1960s art photography, co-founding the Manité picture agency, and work spanning film and advertising design.",
     "category": "Fine Artists & Photographers",
-    "categoryCode": "F&P"
+    "categoryCode": "F&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Arild_Kristo",
+      "portfolio": "https://www.google.com/search?udm=2&q=Arild+Kristo+works"
+    }
   },
   {
     "slug": "may-18",
@@ -1781,7 +2205,11 @@
     "line1": "German-American architect and designer based in Weimar, then later Massachusetts; founder of the Bauhaus school.",
     "line2": "Known for founding the Bauhaus in 1919, pioneering modernist functional design, and designing the Gropius House and Pan Am Building.",
     "category": "Digital, Motion & Product Designers",
-    "categoryCode": "D&P"
+    "categoryCode": "D&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Walter_Gropius",
+      "portfolio": "https://www.google.com/search?udm=2&q=Walter+Gropius+works"
+    }
   },
   {
     "slug": "may-19",
@@ -1793,7 +2221,11 @@
     "line1": "[LOW CONFIDENCE] American comic book illustrator based in New York; contributed art for Marvel, DC, and syndicated newspaper strips.",
     "line2": "Known for his National Lampoon feature One Year Affair with Byron Preiss, drawing the Flash Gordon newspaper strip, and horror comics for Warren.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://www.google.com/search?q=Reese+graphic+designer+illustrator",
+      "portfolio": "https://www.google.com/search?udm=2&q=Reese+works"
+    }
   },
   {
     "slug": "may-20",
@@ -1805,7 +2237,11 @@
     "line1": "American graphic designer based in Las Vegas; worked for the Western Neon sign company in the 1950s and 1960s.",
     "line2": "Known for designing the iconic 'Welcome to Fabulous Las Vegas' sign, which she never copyrighted and gave as a gift to the city.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Betty_Willis_(artist)",
+      "portfolio": "https://www.google.com/search?udm=2&q=Betty+Willis+works"
+    }
   },
   {
     "slug": "may-21",
@@ -1817,7 +2253,11 @@
     "line1": "Italian painter and glass designer based in Murano; artistic director of the Cappellin-Venini glassworks in the 1920s.",
     "line2": "Known for reviving classical Venetian glassmaking forms, designing the iconic Veronese vase, and later directing the M.V.M. Cappellin firm.",
     "category": "Fine Artists & Photographers",
-    "categoryCode": "F&P"
+    "categoryCode": "F&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Vittorio_Zecchin",
+      "portfolio": "https://www.google.com/search?udm=2&q=Vittorio+Zecchin+works"
+    }
   },
   {
     "slug": "may-22",
@@ -1829,7 +2269,11 @@
     "line1": "American graphic designer based in Berkeley, California; pioneer of computer graphics and user-interface design since the 1960s.",
     "line2": "Known for founding Aaron Marcus and Associates, pioneering human-computer interaction design, and advancing information visualization standards.",
     "category": "Digital, Motion & Product Designers",
-    "categoryCode": "D&P"
+    "categoryCode": "D&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Aaron_Marcus",
+      "portfolio": "https://www.google.com/search?udm=2&q=Aaron+Marcus+works"
+    }
   },
   {
     "slug": "may-23",
@@ -1841,7 +2285,11 @@
     "line1": "Austrian-born art director and photographer based in New York; former art director of Esquire, Harper's Bazaar, and Show magazines.",
     "line2": "Known for his surreal, minimalist magazine covers, pioneering conceptual photography in editorial design, and founding Henry Wolf Productions.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Henry_Wolf",
+      "portfolio": "https://www.google.com/search?udm=2&q=Henry+Wolf+works"
+    }
   },
   {
     "slug": "may-24",
@@ -1853,7 +2301,11 @@
     "line1": "American architect and designer based in Santa Fe, New Mexico; head of Herman Miller's textile division from 1952.",
     "line2": "Known for his vibrant textile and furniture designs, Braniff International's colorful airline identity, and the restaurant La Fonda del Sol.",
     "category": "Digital, Motion & Product Designers",
-    "categoryCode": "D&P"
+    "categoryCode": "D&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Alexander_Girard",
+      "portfolio": "https://www.google.com/search?udm=2&q=Alexander+Girard+works"
+    }
   },
   {
     "slug": "may-25",
@@ -1865,7 +2317,11 @@
     "line1": "British artist and portraitist based in London; elected Royal Academician known across painting, printmaking, and book art.",
     "line2": "Known for A Humument, his decades-long altered-book art project, and portraits of cultural figures for London's National Portrait Gallery.",
     "category": "Fine Artists & Photographers",
-    "categoryCode": "F&P"
+    "categoryCode": "F&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Tom_Phillips_(artist)",
+      "portfolio": "https://www.tomphillips.co.uk"
+    }
   },
   {
     "slug": "may-26",
@@ -1877,7 +2333,11 @@
     "line1": "American graphic designer based in Los Angeles; pioneer of environmental graphic design and co-founder of Sussman/Prejza.",
     "line2": "Known for the colorful visual identity of the 1984 Los Angeles Olympics, Euro Disney's signage, and branding for American cities.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Deborah_Sussman",
+      "portfolio": "https://www.google.com/search?udm=2&q=Deborah+Sussman+works"
+    }
   },
   {
     "slug": "may-27",
@@ -1889,7 +2349,11 @@
     "line1": "Canadian street artist based in Windsor, Ontario; works under the alias Denial since the late 1990s.",
     "line2": "Known for his satirical stencil and spray-paint murals on consumerism and politics, a guerrilla sticker campaign, and founding Free 4 All Walls.",
     "category": "Fine Artists & Photographers",
-    "categoryCode": "F&P"
+    "categoryCode": "F&P",
+    "links": {
+      "profile": "https://www.downtownwindsor.ca/art-alley/daniel-bombardier/",
+      "portfolio": "https://www.google.com/search?udm=2&q=Daniel+Bombardier+works"
+    }
   },
   {
     "slug": "may-28",
@@ -1901,7 +2365,11 @@
     "line1": "Dutch graphic designer and architect based in Rotterdam; a pioneering modernist known as 'the typotekt'.",
     "line2": "Known for his dynamic New Typography advertising for NKF cables and PTT, experimental photomontage, and influential industrial product catalogs.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Piet_Zwart",
+      "portfolio": "https://www.google.com/search?udm=2&q=Piet+Zwart+works"
+    }
   },
   {
     "slug": "may-29",
@@ -1913,7 +2381,11 @@
     "line1": "American artist and printer based in Berkeley, California; longtime proprietor of the Saint Hieronymus Press.",
     "line2": "Known for his bold Art Nouveau-inspired posters, decades of artwork for Chez Panisse restaurant, and limited-edition letterpress books.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/David_Lance_Goines",
+      "portfolio": "https://www.goines.net"
+    }
   },
   {
     "slug": "may-30",
@@ -1925,7 +2397,11 @@
     "line1": "German typographer and type designer based in Berlin; founder of the design studio MetaDesign and FontShop.",
     "line2": "Known for designing the FF Meta and ITC Officina typefaces, Deutsche Bahn's corporate identity, and the Berlin transit typeface.",
     "category": "Typographers & Type Designers",
-    "categoryCode": "T&T"
+    "categoryCode": "T&T",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Erik_Spiekermann",
+      "portfolio": "https://spiekermann.com"
+    }
   },
   {
     "slug": "may-31",
@@ -1937,7 +2413,11 @@
     "line1": "British graphic designer based in London; freelance designer across typography, packaging, and posters for four decades.",
     "line2": "Known for his symmetrical English Riviera tourism poster, British postage stamp designs, and receiving D&AD's President's Award in 1993.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/John_Gorham_(graphic_designer)",
+      "portfolio": "https://www.google.com/search?udm=2&q=John+Gorham+works"
+    }
   },
   {
     "slug": "jun-01",
@@ -1949,7 +2429,11 @@
     "line1": "American book-cover and stained-glass designer based in New York; trained in Louis Comfort Tiffany's glass studio before turning to publishing.",
     "line2": "Known for ornate gilt book covers for major New York publishers, her design for Paul Laurence Dunbar's Lyrics of Lowly Life, and Tiffany stained-glass windows.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Alice_Cordelia_Morse",
+      "portfolio": "https://www.google.com/search?udm=2&q=Alice+Cordelia+Morse+works"
+    }
   },
   {
     "slug": "jun-02",
@@ -1961,7 +2445,11 @@
     "line1": "American graphic designer based in New York; partner in the design firm Danne & Blackburn.",
     "line2": "Known for NASA's 1975 'worm' logotype designed with Richard Danne, and the official symbol for the American Revolution Bicentennial.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Bruce_Blackburn",
+      "portfolio": "https://www.google.com/search?udm=2&q=Bruce+Blackburn+works"
+    }
   },
   {
     "slug": "jun-03",
@@ -1973,7 +2461,11 @@
     "line1": "Russian-born painter and stage designer who later settled in Paris; co-founder of Rayonism, one of Russia's first abstract art movements.",
     "line2": "Known for pioneering Rayonist paintings, stage and costume designs for Diaghilev's Ballets Russes, and his lifelong partnership with Natalia Goncharova.",
     "category": "Fine Artists & Photographers",
-    "categoryCode": "F&P"
+    "categoryCode": "F&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Mikhail_Larionov",
+      "portfolio": "https://www.google.com/search?udm=2&q=Mikhail+Larionov+works"
+    }
   },
   {
     "slug": "jun-04",
@@ -1985,7 +2477,11 @@
     "line1": "British engineering draftsman and graphic designer based in London; worked for the London Underground Signals Office.",
     "line2": "Known for designing the 1931 London Underground schematic map, whose circuit-diagram layout became the template for transit maps worldwide.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Harry_Beck",
+      "portfolio": "https://www.google.com/search?udm=2&q=Harry+Beck+works"
+    }
   },
   {
     "slug": "jun-05",
@@ -1997,7 +2493,11 @@
     "line1": "Swiss-born photographer and art director based in Paris; longtime art director of the French magazine Elle.",
     "line2": "Known for reinventing Elle's layout with bold diagonals in the 1960s-70s, directing the TV show Dim Dam Dom, and his fashion photography.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Peter_Knapp_(photographer)",
+      "portfolio": "https://www.google.com/search?udm=2&q=Peter+Knapp+works"
+    }
   },
   {
     "slug": "jun-06",
@@ -2009,7 +2509,11 @@
     "line1": "American graphic designer based in New York; co-founder of the design firm Chermayeff & Geismar.",
     "line2": "Known for the Chase Manhattan Bank octagon logo, the Mobil Oil logotype, and the Smithsonian Institution's sunburst symbol.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Ivan_Chermayeff",
+      "portfolio": "https://www.google.com/search?udm=2&q=Ivan+Chermayeff+works"
+    }
   },
   {
     "slug": "jun-07",
@@ -2021,7 +2525,11 @@
     "line1": "Scottish architect and designer based in Glasgow; leading figure of the Glasgow Style and Art Nouveau movement.",
     "line2": "Known for designing the Glasgow School of Art, the Hill House in Helensburgh, and his distinctive high-backed 'Mackintosh' chairs.",
     "category": "Digital, Motion & Product Designers",
-    "categoryCode": "D&P"
+    "categoryCode": "D&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Charles_Rennie_Mackintosh",
+      "portfolio": "https://www.google.com/search?udm=2&q=Charles+Rennie+Mackintosh+works"
+    }
   },
   {
     "slug": "jun-08",
@@ -2033,7 +2541,11 @@
     "line1": "Canadian-born illustrator and graphic designer based in New York and London; leading figure in the 1970s Art Deco revival.",
     "line2": "Known for the cover of The Beatles' First, a Society of Illustrators Gold Medal, and hundreds of logos and packages including Celestial Seasonings.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Barry_Zaid",
+      "portfolio": "https://www.google.com/search?udm=2&q=Barry+Zaid+works"
+    }
   },
   {
     "slug": "jun-09",
@@ -2045,7 +2557,11 @@
     "line1": "American type designer based in California; served as Adobe Systems' first Director of Typography.",
     "line2": "Known for creating the ITC Stone typeface family, leading Adobe's Originals typography program, and later founding Stone Type Foundry.",
     "category": "Typographers & Type Designers",
-    "categoryCode": "T&T"
+    "categoryCode": "T&T",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Sumner_Stone",
+      "portfolio": "https://stonetypefoundry.com"
+    }
   },
   {
     "slug": "jun-10",
@@ -2057,7 +2573,11 @@
     "line1": "Polish graphic artist based in Warsaw; founder of the influential Polish Poster School.",
     "line2": "Known for minimalist, symbol-driven theater and film posters, decades of teaching at the Warsaw Academy of Fine Arts, and shaping postwar Polish design.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Henryk_Tomaszewski_(poster_artist)",
+      "portfolio": "https://www.google.com/search?udm=2&q=Henryk+Tomaszewski+works"
+    }
   },
   {
     "slug": "jun-11",
@@ -2069,7 +2589,11 @@
     "line1": "American actress based in Connecticut and New York; four-time Academy Award winner over a six-decade film career.",
     "line2": "Known for The Philadelphia Story, The African Queen, and her decades-long on-screen partnership with Spencer Tracy.",
     "category": "Digital, Motion & Product Designers",
-    "categoryCode": "D&P"
+    "categoryCode": "D&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Katharine_Hepburn",
+      "portfolio": "https://www.google.com/search?udm=2&q=Katharine+Hepburn+works"
+    }
   },
   {
     "slug": "jun-12",
@@ -2081,7 +2605,11 @@
     "line1": "American graphic designer and illustrator based in New York; trademark specialist nicknamed 'the Audubon of the Automobile.'",
     "line2": "Known for his 1930 book Trade-Marks Designed by Clarence P. Hornung, the Handbook of Designs and Devices, and detailed vintage-automobile illustrations.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Clarence_P._Hornung",
+      "portfolio": "https://www.google.com/search?udm=2&q=Clarence+P.+Hornung+works"
+    }
   },
   {
     "slug": "jun-13",
@@ -2093,7 +2621,11 @@
     "line1": "American type designer based in California; worked as a type director at Adobe Systems.",
     "line2": "Known for designing the typefaces Trajan, Lithos, and Adobe Caslon.",
     "category": "Typographers & Type Designers",
-    "categoryCode": "T&T"
+    "categoryCode": "T&T",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Carol_Twombly",
+      "portfolio": "https://www.google.com/search?udm=2&q=Carol+Twombly+works"
+    }
   },
   {
     "slug": "jun-14",
@@ -2105,7 +2637,11 @@
     "line1": "American advertising executive based in New York; head of his own ad agency and editor of the typography magazine TYPEtalks.",
     "line2": "Known for proposing the interrobang punctuation mark in 1962 to combine the question mark and exclamation point into one character.",
     "category": "Typographers & Type Designers",
-    "categoryCode": "T&T"
+    "categoryCode": "T&T",
+    "links": {
+      "profile": "https://shadycharacters.co.uk/2011/04/the-interrobang-part-1",
+      "portfolio": "https://www.google.com/search?udm=2&q=Martin+K.+Speckter+works"
+    }
   },
   {
     "slug": "jun-15",
@@ -2117,7 +2653,11 @@
     "line1": "Romanian-born illustrator and cartoonist based in New York; longtime contributor to The New Yorker.",
     "line2": "Known for the iconic 'View of the World from 9th Avenue' cover, decades of satirical drawings, and a singular line-drawing style.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Saul_Steinberg",
+      "portfolio": "https://saulsteinbergfoundation.org"
+    }
   },
   {
     "slug": "jun-16",
@@ -2129,7 +2669,11 @@
     "line1": "Canadian comic book artist and writer based in Ontario; trained in graphic design at La Cité collégiale.",
     "line2": "Known for the long-running webcomic Ménage à 3, Archie Comics work including Archie Meets Ramones, and the Image series Exorsisters.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Gisèle_Lagacé",
+      "portfolio": "https://www.google.com/search?udm=2&q=Gisele+Lagace+works"
+    }
   },
   {
     "slug": "jun-17",
@@ -2141,7 +2685,11 @@
     "line1": "Dutch graphic artist based in the Netherlands; renowned for mathematically inspired prints exploring impossible structures and infinity.",
     "line2": "Known for the lithographs Relativity and Ascending and Descending, and tessellated, optical-illusion works like Sky and Water.",
     "category": "Fine Artists & Photographers",
-    "categoryCode": "F&P"
+    "categoryCode": "F&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/M._C._Escher",
+      "portfolio": "https://mcescher.com"
+    }
   },
   {
     "slug": "jun-18",
@@ -2153,7 +2701,11 @@
     "line1": "German graphic designer and photographer based in Stuttgart; pioneer of concrete and constructive design.",
     "line2": "Known for designing the Deutsche Bank logo, decades of German corporate identity work, and experimental photomontage.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Anton_Stankowski",
+      "portfolio": "https://stankowski-stiftung.de/english/anton/stankowski.html"
+    }
   },
   {
     "slug": "jun-19",
@@ -2165,7 +2717,11 @@
     "line1": "American book and type designer based in Massachusetts; credited with coining the term 'graphic designer.'",
     "line2": "Known for designing the typeface Metro, hundreds of Alfred A. Knopf book designs, and his Marionette Theatre puppet productions.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/W._A._Dwiggins",
+      "portfolio": "https://www.google.com/search?udm=2&q=W.A.+Dwiggins+works"
+    }
   },
   {
     "slug": "jun-20",
@@ -2177,7 +2733,11 @@
     "line1": "American digital artist based in South Carolina; creator of the long-running 'Everydays' daily-image project.",
     "line2": "Known for the NFT artwork Everydays: The First 5000 Days, which sold at Christie's for $69 million, and large-scale digital installations.",
     "category": "Digital, Motion & Product Designers",
-    "categoryCode": "D&P"
+    "categoryCode": "D&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Mike_Winkelmann",
+      "portfolio": "https://www.beeple-crap.com"
+    }
   },
   {
     "slug": "jun-21",
@@ -2189,7 +2749,11 @@
     "line1": "American graphic designer based in San Francisco and later Portland; founding figure of the Bay Area's postmodern 'Pacific Wave' design movement.",
     "line2": "Known for environmental graphics on San Francisco's Embarcadero Promenade, HP Pavilion signage, and decades leading The Office of Michael Manwaring.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Michael_Manwaring",
+      "portfolio": "https://www.manwaring.com"
+    }
   },
   {
     "slug": "jun-22",
@@ -2201,7 +2765,11 @@
     "line1": "British painter and graphic designer based in London; freelance designer for galleries, industry and music labels from 1961.",
     "line2": "Known for designing the back cover of the Beatles' White Album, Wings' debut album cover, and co-founding the White Ink print studio.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Gordon_House_(graphic_designer)",
+      "portfolio": "https://www.google.com/search?udm=2&q=Gordon+House+works"
+    }
   },
   {
     "slug": "jun-23",
@@ -2213,7 +2781,11 @@
     "line1": "Austrian-born graphic designer based in New York; first woman elected to the Art Directors Club and first female art director at Condé Nast.",
     "line2": "Known for art directing Glamour, Seventeen, and Charm magazines, pioneering the use of fine artists for editorial illustration.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Cipe_Pineles",
+      "portfolio": "https://www.google.com/search?udm=2&q=Cipe+Pineles+works"
+    }
   },
   {
     "slug": "jun-24",
@@ -2225,7 +2797,11 @@
     "line1": "Japanese graphic designer and pixel artist based in Tokyo; longtime Namco artist known by the nickname 'Mr. Dotman.'",
     "line2": "Known for the sprite and cabinet art of arcade classics Dig Dug, Xevious, and Galaga, and decades of pioneering pixel-art design.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://www.google.com/search?udm=2&q=Mr.+DotMan+dot+art+illustrator",
+      "portfolio": "https://www.google.com/search?udm=2&q=Mr.+DotMan+works"
+    }
   },
   {
     "slug": "jun-25",
@@ -2237,7 +2813,11 @@
     "line1": "Dutch-born graphic designer based in Berkeley, California; co-founder of Emigre magazine and type foundry.",
     "line2": "Known for art directing Emigre's experimental digital-type design, co-creating typefaces for the foundry, and shaping 1980s-90s digital typography.",
     "category": "Typographers & Type Designers",
-    "categoryCode": "T&T"
+    "categoryCode": "T&T",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Rudy_VanderLans",
+      "portfolio": "https://www.emigre.com"
+    }
   },
   {
     "slug": "jun-26",
@@ -2249,7 +2829,11 @@
     "line1": "American graphic designer based in New York; co-founder of Push Pin Studios and founder of Milton Glaser, Inc.",
     "line2": "Known for the 'I Love NY' logo, his psychedelic 1966 Bob Dylan poster, and decades of magazine and brand identity design.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Milton_Glaser",
+      "portfolio": "https://www.google.com/search?udm=2&q=Milton+Glaser+works"
+    }
   },
   {
     "slug": "jun-27",
@@ -2261,7 +2845,11 @@
     "line1": "Japanese graphic designer and artist based in Tokyo; dubbed 'the Japanese Andy Warhol' for his crossover into fine art.",
     "line2": "Known for psychedelic 1960s posters for avant-garde theater, album art for artists like Santana, and a prolific painting career.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Tadanori_Yokoo",
+      "portfolio": "https://www.google.com/search?udm=2&q=Tadanori+Yokoo+works"
+    }
   },
   {
     "slug": "jun-28",
@@ -2273,7 +2861,11 @@
     "line1": "French author and illustrator based in Paris; creator of playful, interactive children's books.",
     "line2": "Known for the bestselling Press Here (Un Livre) series, his 'Ideal Exhibition' art workshops for kids, and over 100 illustrated books.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Hervé_Tullet",
+      "portfolio": "https://www.hervetullet.com"
+    }
   },
   {
     "slug": "jun-29",
@@ -2285,7 +2877,11 @@
     "line1": "Swiss graphic designer based in Basel; pioneer of the Swiss International Style and longtime co-director of the Basel School of Design.",
     "line2": "Known for his iconic 1959 Giselle ballet poster, stark black-and-white typographic work, and training generations of designers in Basel.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Armin_Hofmann",
+      "portfolio": "https://www.google.com/search?udm=2&q=Armin+Hofmann+works"
+    }
   },
   {
     "slug": "jun-30",
@@ -2297,7 +2893,11 @@
     "line1": "Mexican printmaker and engraver based in Mexico City; founder and leading figure of the Taller de Gráfica Popular collective.",
     "line2": "Known for politically charged woodcuts and linocuts supporting agrarian reform, decades of activist printmaking, and influencing Mexican graphic art.",
     "category": "Fine Artists & Photographers",
-    "categoryCode": "F&P"
+    "categoryCode": "F&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Leopoldo_Méndez",
+      "portfolio": "https://www.leopoldomendez.com"
+    }
   },
   {
     "slug": "jul-01",
@@ -2309,7 +2909,11 @@
     "line1": "American book designer, printer, and typographer based in San Francisco; received a MacArthur Fellowship in 1983.",
     "line2": "Known for The Design of Books, printing fine editions for The Limited Editions Club, and chronicling the Nuremberg Chronicle.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Adrian_Wilson_(typographer)",
+      "portfolio": "https://www.google.com/search?udm=2&q=Adrian+Wilson+typographer+works"
+    }
   },
   {
     "slug": "jul-02",
@@ -2321,7 +2925,11 @@
     "line1": "Swedish-born French street artist and designer based in Paris; creator of the top-hatted \"Mr. A\" graffiti tag.",
     "line2": "Known for founding the Le Baron nightclubs, designing Hôtel Amour in Paris, and collaborations with Louis Vuitton and Chanel.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://fr.wikipedia.org/wiki/André_Saraiva",
+      "portfolio": "https://www.google.com/search?udm=2&q=André+Saraiva+works"
+    }
   },
   {
     "slug": "jul-03",
@@ -2333,7 +2941,11 @@
     "line1": "Hungarian avant-garde painter and graphic designer; founder of the Műhely school, Budapest's answer to the Bauhaus.",
     "line2": "Known for Constructivist \"picture-architecture\" paintings, modernist poster design, and mentoring Victor Vasarely.",
     "category": "Fine Artists & Photographers",
-    "categoryCode": "F&P"
+    "categoryCode": "F&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Sándor_Bortnyik",
+      "portfolio": "https://www.google.com/search?udm=2&q=Sándor+Bortnyik+works"
+    }
   },
   {
     "slug": "jul-04",
@@ -2345,7 +2957,11 @@
     "line1": "American graphic designer based in New York; in-house art director for Blue Note Records through the late 1950s and '60s.",
     "line2": "Known for defining Blue Note's jazz album covers through bold typography, asymmetric layouts, and tinted session photography.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Reid_Miles",
+      "portfolio": "https://www.google.com/search?udm=2&q=Reid+Miles+works"
+    }
   },
   {
     "slug": "jul-05",
@@ -2357,7 +2973,11 @@
     "line1": "American comic-strip letterer and fan organizer based in San Diego; founding force behind San Diego Comic-Con.",
     "line2": "Known for co-founding Comic-Con International in 1970, chairing its early organizing committee, and lettering the Steve Canyon strip.",
     "category": "Typographers & Type Designers",
-    "categoryCode": "T&T"
+    "categoryCode": "T&T",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Shel_Dorf",
+      "portfolio": "https://www.google.com/search?udm=2&q=Shel+Dorf+works"
+    }
   },
   {
     "slug": "jul-06",
@@ -2369,7 +2989,11 @@
     "line1": "Hungarian-born graphic designer based in New York; founder of the influential design firm M&Co.",
     "line2": "Known for founding M&Co's irreverent design work, editing Benetton's Colors magazine, and the identity for Restaurant Florent.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Tibor_Kalman",
+      "portfolio": "https://www.google.com/search?udm=2&q=Tibor+Kalman+works"
+    }
   },
   {
     "slug": "jul-07",
@@ -2381,7 +3005,11 @@
     "line1": "French-born illustrator based in New York; longtime contributor to The Atlantic, The New Yorker, and Time.",
     "line2": "Known for surreal, deadpan editorial illustrations, the wordless book Something's Not Quite Right, and a 1989 Hamilton King Award.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Guy_Billout",
+      "portfolio": "https://guybillout.com"
+    }
   },
   {
     "slug": "jul-08",
@@ -2393,7 +3021,11 @@
     "line1": "British illustrator and art director based in London; art director for Penguin Books' paperback covers in the 1960s.",
     "line2": "Known for The Beatles Illustrated Lyrics, The Butterfly Ball and the Grasshopper's Feast, and psychedelic 1960s poster art.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Alan_Aldridge",
+      "portfolio": "https://www.google.com/search?udm=2&q=Alan+Aldridge+works"
+    }
   },
   {
     "slug": "jul-09",
@@ -2405,7 +3037,11 @@
     "line1": "American graphic designer based in New York; freelance cover designer for Grove Press from the 1950s through the '60s.",
     "line2": "Known for roughly 700 Grove Press book jackets, bringing Abstract Expressionism into mass-market publishing design.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Roy_Kuhlman",
+      "portfolio": "https://www.google.com/search?udm=2&q=Roy+Kuhlman+works"
+    }
   },
   {
     "slug": "jul-10",
@@ -2417,7 +3053,11 @@
     "line1": "American illustrator and graphic designer based in Massachusetts; dubbed the \"Dean of American Designers\" by the Saturday Evening Post.",
     "line2": "Known for pioneering American Art Nouveau posters, designing for The Chap-Book, and publishing the periodical Bradley: His Book.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Will_H._Bradley",
+      "portfolio": "https://www.google.com/search?udm=2&q=Will+H.+Bradley+works"
+    }
   },
   {
     "slug": "jul-11",
@@ -2429,7 +3069,11 @@
     "line1": "American cartoonist and illustrator based in New York; contributed to The New Yorker for over five decades.",
     "line2": "Known for nearly 2,000 New Yorker cartoons and 79 covers, and the Caldecott Honor book When I Was Nine.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/James_Stevenson_(author)",
+      "portfolio": "https://www.google.com/search?udm=2&q=James+Stevenson+cartoonist+works"
+    }
   },
   {
     "slug": "jul-12",
@@ -2441,7 +3085,11 @@
     "line1": "Hungarian-born American graphic designer based in New York; former president of AIGA from 1966 to 1968.",
     "line2": "Known for corporate identity work for the Ford Foundation and Herman Miller, and the School of Visual Arts' flower logo.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/George_Tscherny",
+      "portfolio": "https://www.google.com/search?udm=2&q=George+Tscherny+works"
+    }
   },
   {
     "slug": "jul-13",
@@ -2453,7 +3101,11 @@
     "line1": "American author and graphic designer based in New York; spent two decades designing book jackets before writing fiction.",
     "line2": "Known for her bestselling novel Wonder, its 2017 film adaptation, and cover designs for authors like Paul Auster.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/R._J._Palacio",
+      "portfolio": "https://www.rjpalacio.com"
+    }
   },
   {
     "slug": "jul-14",
@@ -2465,7 +3117,11 @@
     "line1": "Italian graphic designer based in Milan; head of Olivetti's graphic design department from 1950 to 1967.",
     "line2": "Known for Olivetti's geometric advertising campaigns, typewriter posters, and the company's acclaimed annual calendars.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Giovanni_Pintori",
+      "portfolio": "https://www.google.com/search?udm=2&q=Giovanni+Pintori+works"
+    }
   },
   {
     "slug": "jul-15",
@@ -2477,7 +3133,11 @@
     "line1": "American graphic designer based in New York; co-founder of the design firm Chermayeff & Geismar.",
     "line2": "Known for the Mobil, NBC, and Chase logos, the PBS \"three-headed\" mark, and U.S. transportation sign standards.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Tom_Geismar",
+      "portfolio": "https://www.tomgeismar.com"
+    }
   },
   {
     "slug": "jul-16",
@@ -2489,7 +3149,11 @@
     "line1": "British typographer and graphic designer based in London; taught at the Central School of Arts and Crafts.",
     "line2": "Known for the rotating chrome sign at New Scotland Yard, Churchill College's foundation lettering, and the First Things First manifesto.",
     "category": "Typographers & Type Designers",
-    "categoryCode": "T&T"
+    "categoryCode": "T&T",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Edward_Wright_(typographer)",
+      "portfolio": "https://www.google.com/search?udm=2&q=Edward+Wright+typographer+works"
+    }
   },
   {
     "slug": "jul-17",
@@ -2501,7 +3165,11 @@
     "line1": "American graphic designer based in the Bronx; self-taught flyer artist dubbed \"The Flyer King\" of early hip-hop.",
     "line2": "Known for roughly 300 hand-drawn party flyers for Grandmaster Flash, Afrika Bambaataa, and the Cold Crush Brothers.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Buddy_Esquire",
+      "portfolio": "https://www.google.com/search?udm=2&q=Buddy+Esquire+flyers"
+    }
   },
   {
     "slug": "jul-18",
@@ -2513,7 +3181,11 @@
     "line1": "Brazilian cartoonist and graphic designer based in Rio de Janeiro; a leading illustrator of Brazil's early 20th-century press.",
     "line2": "Known as J. Carlos for his cover art for Para Todos magazine, work for O Malho, and shaping Brazil's Art Deco graphic style.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://www.google.com/search?udm=2&q=José+Carlos+de+Brito+e+Cunha+designer",
+      "portfolio": "https://www.google.com/search?udm=2&q=José+Carlos+de+Brito+e+Cunha+works"
+    }
   },
   {
     "slug": "jul-19",
@@ -2525,7 +3197,11 @@
     "line1": "American lettering artist and logo designer based in New York; a Cooper Union graduate who trained under Ed Benguiat.",
     "line2": "Known for the New York Knicks logo, KISS album art, and decades of hand-lettered Time magazine covers.",
     "category": "Typographers & Type Designers",
-    "categoryCode": "T&T"
+    "categoryCode": "T&T",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Michael_Doret",
+      "portfolio": "https://www.michaeldoret.com"
+    }
   },
   {
     "slug": "jul-20",
@@ -2537,7 +3213,11 @@
     "line1": "Hungarian-born painter and photographer based in Chicago; former Bauhaus professor and founder of the New Bauhaus.",
     "line2": "Known for pioneering photograms, photomontage, and the \"New Vision\" approach to experimental photography.",
     "category": "Fine Artists & Photographers",
-    "categoryCode": "F&P"
+    "categoryCode": "F&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/László_Moholy-Nagy",
+      "portfolio": "https://www.google.com/search?udm=2&q=László+Moholy-Nagy+works"
+    }
   },
   {
     "slug": "jul-21",
@@ -2549,7 +3229,11 @@
     "line1": "American animation director and designer based in Los Angeles; longtime art director at Blue Sky Studios.",
     "line2": "Known for directing Horton Hears a Who!, Ice Age: Continental Drift, and The Peanuts Movie.",
     "category": "Digital, Motion & Product Designers",
-    "categoryCode": "D&P"
+    "categoryCode": "D&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Steve_Martino",
+      "portfolio": "https://www.google.com/search?udm=2&q=Steve+Martino+designer+works"
+    }
   },
   {
     "slug": "jul-22",
@@ -2561,7 +3245,11 @@
     "line1": "Georgian logo designer and illustrator based in Tbilisi; more than fifteen years in brand identity design.",
     "line2": "Known for a minimalist, grid-based logo style, branding work for clients like Disney, and the book Principles of Logo Design.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://www.google.com/search?udm=2&q=George+Bokhua+logo+designer+biography",
+      "portfolio": "https://bokhua.com"
+    }
   },
   {
     "slug": "jul-23",
@@ -2573,7 +3261,11 @@
     "line1": "Canadian graphic designer based in Montreal; trained at the École des arts graphiques.",
     "line2": "Known for designing the 1976 Montreal Olympics logo and graphics program, and earlier design work for Expo 67.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://www.google.com/search?udm=2&q=Georges+Huel+graphic+designer+biography",
+      "portfolio": "https://www.google.com/search?udm=2&q=Georges+Huel+works"
+    }
   },
   {
     "slug": "jul-24",
@@ -2585,7 +3277,11 @@
     "line1": "Czech painter and illustrator based in Paris; leading figure of the Art Nouveau poster movement.",
     "line2": "Known for his posters for Sarah Bernhardt, including Gismonda and Médée, and decorative works like Chocolat Idéal.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Alphonse_Mucha",
+      "portfolio": "https://www.google.com/search?udm=2&q=Alphonse+Mucha+works"
+    }
   },
   {
     "slug": "jul-25",
@@ -2597,7 +3293,11 @@
     "line1": "Czech painter and illustrator based in Prague; a founding member of the wartime Group 42.",
     "line2": "Known for paintings of balloons, airships, and early automobiles, and illustrations for more than 400 books.",
     "category": "Fine Artists & Photographers",
-    "categoryCode": "F&P"
+    "categoryCode": "F&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Kamil_Lhoták",
+      "portfolio": "https://www.google.com/search?udm=2&q=Kamil+Lhoták+works"
+    }
   },
   {
     "slug": "jul-26",
@@ -2609,7 +3309,11 @@
     "line1": "German-born painter and draughtsman based in Berlin and later New York; a founding figure of Berlin Dada.",
     "line2": "Known for biting Weimar-era caricatures, pioneering photomontage with John Heartfield, and leading the New Objectivity movement.",
     "category": "Fine Artists & Photographers",
-    "categoryCode": "F&P"
+    "categoryCode": "F&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/George_Grosz",
+      "portfolio": "https://www.google.com/search?udm=2&q=George+Grosz+works"
+    }
   },
   {
     "slug": "jul-27",
@@ -2621,7 +3325,11 @@
     "line1": "Swedish graphic designer based in Stockholm; ran his own design studio from the 1970s onward.",
     "line2": "Known for creating ABBA's backwards-B logo and designing the band's album sleeves from Arrival through its later releases.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://www.google.com/search?udm=2&q=Rune+Söderqvist+formgivare+biography",
+      "portfolio": "https://www.google.com/search?udm=2&q=Rune+Söderqvist+works"
+    }
   },
   {
     "slug": "jul-28",
@@ -2633,7 +3341,11 @@
     "line1": "English art director and album designer based in Los Angeles; former in-house designer for Apple Records.",
     "line2": "Known for the Eagles' Hotel California cover and logo, and sleeve design for the Beatles' Abbey Road and Let It Be.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/John_Kosh",
+      "portfolio": "https://www.koshdesign.com"
+    }
   },
   {
     "slug": "jul-29",
@@ -2645,7 +3357,11 @@
     "line1": "American type designer and historian based in California; a 1982 MacArthur Fellow.",
     "line2": "Known for co-creating the Lucida typeface family and Wingdings with Kris Holmes, and researching on-screen type legibility.",
     "category": "Typographers & Type Designers",
-    "categoryCode": "T&T"
+    "categoryCode": "T&T",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Charles_Bigelow_(type_designer)",
+      "portfolio": "https://www.google.com/search?udm=2&q=Charles+Bigelow+type+designer+works"
+    }
   },
   {
     "slug": "jul-30",
@@ -2657,7 +3373,11 @@
     "line1": "British graphic designer based in London; in-house art director for Stiff Records in the late 1970s.",
     "line2": "Known for Elvis Costello's Armed Forces and My Aim Is True sleeves, and Ian Dury's multi-sleeve Do It Yourself album.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Barney_Bubbles",
+      "portfolio": "https://www.barneybubbles.com"
+    }
   },
   {
     "slug": "jul-31",
@@ -2669,7 +3389,11 @@
     "line1": "[LOW CONFIDENCE] Austrian-born graphic designer based in Rio de Janeiro; longtime head of TV Globo's graphics department in Brazil.",
     "line2": "Known for pioneering computer-generated title sequences for Jornal Nacional and Fantástico, and modernizing Brazilian television graphics.",
     "category": "Digital, Motion & Product Designers",
-    "categoryCode": "D&P"
+    "categoryCode": "D&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Hans_Donner",
+      "portfolio": "https://www.google.com/search?udm=2&q=Hans+Donner+designer+works"
+    }
   },
   {
     "slug": "aug-01",
@@ -2681,7 +3405,11 @@
     "line1": "Zurich-born Swiss painter and graphic designer active in the early 1900s; trained in Munich before returning home to teach and design posters.",
     "line2": "Known for her Swiss federal-festival posters, temperance-campaign poster art, and illustrated school textbooks.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://hls-dhs-dss.ch/articles/022431",
+      "portfolio": "https://www.google.com/search?udm=2&q=Dora+Hauth-Trachsler+works"
+    }
   },
   {
     "slug": "aug-02",
@@ -2693,7 +3421,11 @@
     "line1": "Bangkok-born Thai writer, graphic designer, and filmmaker; studied at Parsons and Cooper Union in New York before returning to Thailand.",
     "line2": "Known for his S.E.A. Write Award-winning fiction, book design for Typhoon Studio, and directing the film Motel Mist.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Prabda_Yoon",
+      "portfolio": "https://www.google.com/search?udm=2&q=Prabda+Yoon+works"
+    }
   },
   {
     "slug": "aug-03",
@@ -2705,7 +3437,11 @@
     "line1": "German graphic designer and letterer (1902-1981) who spent his career in Berlin working across posters, packaging, and advertising.",
     "line2": "Known for his calligraphic lettering and logo design, his book Werbung + Graphik, and decades teaching at Berlin's State Graphics Institute.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://www.printmag.com/daily-heller/the-daily-heller-have-you-ever-heard-the-name-uli-huber/",
+      "portfolio": "https://www.google.com/search?udm=2&q=Uli+Huber+works"
+    }
   },
   {
     "slug": "aug-04",
@@ -2717,7 +3453,11 @@
     "line1": "West Virginia-born American illustrator and printmaker based in Cincinnati, pioneer of a geometric wildlife style he called minimal realism.",
     "line2": "Known for his Ford Times nature illustrations, Giant Golden Book of Biology artwork, and National Park Service posters.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Charley_Harper",
+      "portfolio": "https://www.google.com/search?udm=2&q=Charley+Harper+works"
+    }
   },
   {
     "slug": "aug-05",
@@ -2729,7 +3469,11 @@
     "line1": "British designer (1945-2020) based in London, pioneer of television branding who spent 12 years as consultant creative director at the BBC.",
     "line2": "Known for Channel 4's 1982 blocks logo, BBC Two's 1991 identity, and the BBC One globe idents of the late 1990s.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Martin_Lambie-Nairn",
+      "portfolio": "https://www.google.com/search?udm=2&q=Martin+Lambie-Nairn+works"
+    }
   },
   {
     "slug": "aug-06",
@@ -2741,7 +3485,11 @@
     "line1": "Austrian-born graphic designer based in New York, founder of Sagmeister & Walsh and a two-time Grammy winner for album packaging.",
     "line2": "Known for his Rolling Stones and Lou Reed album art, the self-lacerated AIGA lecture poster, and Things I Have Learned in My Life So Far.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Stefan_Sagmeister",
+      "portfolio": "https://sagmeister.com"
+    }
   },
   {
     "slug": "aug-07",
@@ -2753,7 +3501,11 @@
     "line1": "British designer and consultant, founder of Package Design Associates, which grew into the corporate identity firm Allied International Designers.",
     "line2": "Known for pioneering corporate identity consulting in Britain, his book Communication by Design, and decades of packaging design leadership.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://www.google.com/search?udm=2&q=James+Pilditch+design+consultant",
+      "portfolio": "https://www.google.com/search?udm=2&q=James+Pilditch+works"
+    }
   },
   {
     "slug": "aug-08",
@@ -2765,7 +3517,11 @@
     "line1": "American-born graphic designer who relocated to London and became known for inventive title sequences in British advertising and film.",
     "line2": "Known for the Goldfinger and From Russia with Love title sequences, and his Sex and Typography lecture on design and desire.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Robert_Brownjohn",
+      "portfolio": "https://robertbrownjohn.com"
+    }
   },
   {
     "slug": "aug-09",
@@ -2777,7 +3533,11 @@
     "line1": "Japanese graphic designer from Gunma Prefecture who left Shiseido's art department in 1971 to go freelance, later teaching at Tama Art University.",
     "line2": "Known for his Super-Oriental poster style blending classical Japanese motifs with modern color, including his landmark New Music Media poster.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://www.britannica.com/biography/Sato-Koichi",
+      "portfolio": "https://www.google.com/search?udm=2&q=Koichi+Sato+works"
+    }
   },
   {
     "slug": "aug-10",
@@ -2789,7 +3549,11 @@
     "line1": "Japanese graphic designer and art director (1908-1974), a founding figure of Japan's postwar advertising design community.",
     "line2": "Known for serving as IDEA magazine's first art director, designing the Idemitsu Kosan logo, and leading AGI's Japanese chapter.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Hiroshi_Ohchi",
+      "portfolio": "https://www.google.com/search?udm=2&q=Hiroshi+Ohchi+works"
+    }
   },
   {
     "slug": "aug-11",
@@ -2801,7 +3565,11 @@
     "line1": "Korean-born American comic book artist and publisher, longtime Chief Creative Officer and Publisher at DC Comics.",
     "line2": "Known for illustrating the best-selling X-Men #1, co-founding Image Comics and WildStorm, and drawing Batman: Hush.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Jim_Lee",
+      "portfolio": "https://www.google.com/search?udm=2&q=Jim+Lee+works"
+    }
   },
   {
     "slug": "aug-12",
@@ -2813,7 +3581,11 @@
     "line1": "American graphic designer based in Los Angeles, co-founder of Gravillis Inc. after starting his career in the Def Jam Records art department.",
     "line2": "Known for album art for Public Enemy and Notorious B.I.G., and movie posters for Straight Outta Compton and Bohemian Rhapsody.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://gdusa.com/?p=4457",
+      "portfolio": "https://www.gravillisinc.com/"
+    }
   },
   {
     "slug": "aug-13",
@@ -2825,7 +3597,11 @@
     "line1": "American graphic designer and letterer, raised in Munich before returning to New York to design book jackets for major publishers.",
     "line2": "Known for hand-lettering dozens of book jackets, her Book Jacket italic typeface, and teaching calligraphy at Cooper Union.",
     "category": "Typographers & Type Designers",
-    "categoryCode": "T&T"
+    "categoryCode": "T&T",
+    "links": {
+      "profile": "https://luc.devroye.org/fonts-44220.html",
+      "portfolio": "https://www.google.com/search?udm=2&q=Ursula+Suess+works"
+    }
   },
   {
     "slug": "aug-14",
@@ -2837,7 +3613,11 @@
     "line1": "American cartoonist from Tacoma, Washington, who spent fifteen years drawing one of the most widely syndicated comic panels in the world.",
     "line2": "Known for creating The Far Side, his surreal single-panel cartoons syndicated in over 1,900 newspapers, and the book There's a Hair in My Dirt.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Gary_Larson",
+      "portfolio": "https://www.thefarside.com/"
+    }
   },
   {
     "slug": "aug-15",
@@ -2849,7 +3629,11 @@
     "line1": "American graphic designer based in New York, a pioneer of modernist advertising art and longtime professor at Yale.",
     "line2": "Known for designing the IBM, UPS, ABC, and Westinghouse corporate logos, and his influential book Thoughts on Design.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Paul_Rand",
+      "portfolio": "https://www.google.com/search?udm=2&q=Paul+Rand+works"
+    }
   },
   {
     "slug": "aug-16",
@@ -2861,7 +3645,11 @@
     "line1": "Russian illustrator and stage designer celebrated for his intricate illustrations of Russian fairy tales in the Art Nouveau style.",
     "line2": "Known for illustrating Vasilisa the Beautiful and other Russian folk tales, and designing sets for operas including The Golden Cockerel.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Ivan_Bilibin",
+      "portfolio": "https://www.google.com/search?udm=2&q=Ivan+Bilibin+works"
+    }
   },
   {
     "slug": "aug-17",
@@ -2969,7 +3757,11 @@
     "line1": "American filmmaker and illustrator from Burbank, California, who began his career as an animator at Walt Disney Studios.",
     "line2": "Known for directing Edward Scissorhands and The Nightmare Before Christmas, and his gothic illustrated book The Melancholy Death of Oyster Boy.",
     "category": "Digital, Motion & Product Designers",
-    "categoryCode": "D&P"
+    "categoryCode": "D&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Tim_Burton",
+      "portfolio": "https://www.google.com/search?udm=2&q=Tim+Burton+works"
+    }
   },
   {
     "slug": "aug-26",
@@ -2981,7 +3773,11 @@
     "line1": "Iranian graphic designer and educator based in Tehran, widely regarded as the father of modern Iranian graphic design.",
     "line2": "Known for his film and theater posters, founding the Iranian Graphic Design Society, and receiving Icograda's Lifetime Achievement Award.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Morteza_Momayez",
+      "portfolio": "https://www.google.com/search?udm=2&q=Morteza+Momayez+works"
+    }
   },
   {
     "slug": "aug-27",
@@ -2993,7 +3789,11 @@
     "line1": "Breslau-born calligrapher and type designer who worked in Jerusalem before settling in New York as a book designer and teacher.",
     "line2": "Known for creating David Hebrew, the first comprehensive Hebrew typeface family, and teaching calligraphy at Cooper Union and Pratt Institute.",
     "category": "Typographers & Type Designers",
-    "categoryCode": "T&T"
+    "categoryCode": "T&T",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Ismar_David",
+      "portfolio": "https://ismardavidarchive.org/"
+    }
   },
   {
     "slug": "aug-28",
@@ -3005,7 +3805,11 @@
     "line1": "American type designer based in New York, formerly a partner at the Hoefler & Frere-Jones type foundry.",
     "line2": "Known for designing the Interstate, Gotham, and Poynter typeface families used worldwide in signage and branding.",
     "category": "Typographers & Type Designers",
-    "categoryCode": "T&T"
+    "categoryCode": "T&T",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Tobias_Frere-Jones",
+      "portfolio": "https://frerejones.com"
+    }
   },
   {
     "slug": "aug-29",
@@ -3017,7 +3821,11 @@
     "line1": "American graphic designer based in New York, a partner at Pentagram since 1990 after beginning his career at Vignelli Associates.",
     "line2": "Known for identity work for Saks Fifth Avenue and MIT Media Lab, his Design Observer writing, and the book 79 Short Essays on Design.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Michael_Bierut",
+      "portfolio": "https://www.pentagram.com/about/michael-bierut"
+    }
   },
   {
     "slug": "aug-30",
@@ -3029,7 +3837,11 @@
     "line1": "Graubunden-born Swiss painter, graphic designer, and stage designer who co-founded the satirical Cabaret Cornichon in Zurich.",
     "line2": "Known for illustrating the children's classic Schellen-Ursli, and winning the Hans Christian Andersen Award for illustration in 1966.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Alois_Carigiet",
+      "portfolio": "https://www.google.com/search?udm=2&q=Alois+Carigiet+works"
+    }
   },
   {
     "slug": "aug-31",
@@ -3041,7 +3853,11 @@
     "line1": "American pop-surrealist painter, born Josh Agle, based in Southern California and known professionally as Shag.",
     "line2": "Known for his retro cocktail-culture paintings of mid-century lounge life, Disneyland art collaborations, and the Shagland gallery/boutique.",
     "category": "Fine Artists & Photographers",
-    "categoryCode": "F&P"
+    "categoryCode": "F&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Shag_(artist)",
+      "portfolio": "https://www.shag.com/"
+    }
   },
   {
     "slug": "sep-01",
@@ -3053,7 +3869,11 @@
     "line1": "American comic-book letterer and logo designer based in New York; worked for DC Comics across five decades from the Silver Age onward.",
     "line2": "Known for designing the Swamp Thing and Vertigo logos, and hand-lettering classic Batman and Green Lantern stories.",
     "category": "Typographers & Type Designers",
-    "categoryCode": "T&T"
+    "categoryCode": "T&T",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Gaspar_Saladino",
+      "portfolio": "https://www.google.com/search?udm=2&q=Gaspar+Saladino+works"
+    }
   },
   {
     "slug": "sep-02",
@@ -3065,7 +3885,11 @@
     "line1": "Japanese-American graphic designer based in New York; former senior designer at CBS and a principal at Unimark International.",
     "line2": "Known for corporate identity and publication design for CBS, IBM, and Knoll, and exhibition design for the Smithsonian Institution.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Tomoko_Miho",
+      "portfolio": "https://www.google.com/search?udm=2&q=Tomoko+Miho+works"
+    }
   },
   {
     "slug": "sep-03",
@@ -3077,7 +3901,11 @@
     "line1": "American Art Deco muralist and designer based in New York; first woman appointed to the New York City Art Commission.",
     "line2": "Known for the enamel-and-metal roundels on Radio City Music Hall's facade, and murals at St. Bartholomew's Church and the Nebraska Capitol.",
     "category": "Fine Artists & Photographers",
-    "categoryCode": "F&P"
+    "categoryCode": "F&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Hildreth_Meière",
+      "portfolio": "https://www.hildrethmeiere.org"
+    }
   },
   {
     "slug": "sep-04",
@@ -3089,7 +3917,11 @@
     "line1": "Russian-born American artist and editor based in New York; longtime editorial director of Condé Nast Publications, including Vogue.",
     "line2": "Known for shaping Vogue's visual identity for decades, large-scale welded steel sculpture, and abstract painting.",
     "category": "Fine Artists & Photographers",
-    "categoryCode": "F&P"
+    "categoryCode": "F&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Alexander_Liberman",
+      "portfolio": "https://www.google.com/search?udm=2&q=Alexander+Liberman+works"
+    }
   },
   {
     "slug": "sep-05",
@@ -3101,7 +3933,11 @@
     "line1": "American graphic designer and art director based in New York; vice president of creative services at Columbia Records.",
     "line2": "Known for album covers for Bob Dylan, Barbra Streisand, and Big Brother and the Holding Company's Cheap Thrills.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Bob_Cato",
+      "portfolio": "https://www.google.com/search?udm=2&q=Bob+Cato+works"
+    }
   },
   {
     "slug": "sep-06",
@@ -3113,7 +3949,11 @@
     "line1": "Japanese graphic designer based in Tokyo; art director for the 1970 Osaka Expo and emeritus professor at Musashino Art University.",
     "line2": "Known for bold experimental posters blending Japanese and Latin type, and pioneering work in digital graphic design.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://graphis.com/bio/3/mitsuo-katsui-2",
+      "portfolio": "https://www.google.com/search?udm=2&q=Mitsuo+Katsui+works"
+    }
   },
   {
     "slug": "sep-07",
@@ -3125,7 +3965,11 @@
     "line1": "Swiss-born graphic designer based in New York; art director for General Dynamics during the Cold War atomic age.",
     "line2": "Known for his abstract 'Atoms for Peace' poster series, General Dynamics annual reports, and the book Dynamic America.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Erik_Nitsche",
+      "portfolio": "https://www.google.com/search?udm=2&q=Erik+Nitsche+works"
+    }
   },
   {
     "slug": "sep-08",
@@ -3137,7 +3981,11 @@
     "line1": "American graphic designer based in California; former art director of Ray Gun magazine and pioneer of 1990s grunge typography.",
     "line2": "Known for deconstructed layouts in Ray Gun, Beach Culture, and Surfer magazine, and the bestselling book The End of Print.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/David_Carson_(graphic_designer)",
+      "portfolio": "https://davidcarsondesign.com"
+    }
   },
   {
     "slug": "sep-09",
@@ -3149,7 +3997,11 @@
     "line1": "American conceptual artist based in New York and Connecticut; a founding figure of Minimalism and Conceptual art.",
     "line2": "Known for instruction-based wall drawings, cube and grid sculptures, and his 1967 essay Paragraphs on Conceptual Art.",
     "category": "Fine Artists & Photographers",
-    "categoryCode": "F&P"
+    "categoryCode": "F&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Sol_LeWitt",
+      "portfolio": "https://www.google.com/search?udm=2&q=Sol+LeWitt+works"
+    }
   },
   {
     "slug": "sep-10",
@@ -3161,7 +4013,11 @@
     "line1": "American graphic designer and art director based in San Francisco; art director for the department store Joseph Magnin.",
     "line2": "Known for a distinctive, Paul Klee-influenced advertising style that helped define 1950s-60s American retail design.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Marget_Larsen",
+      "portfolio": "https://www.google.com/search?udm=2&q=Margaret+Aagot+Larsen+works"
+    }
   },
   {
     "slug": "sep-11",
@@ -3173,7 +4029,11 @@
     "line1": "Norwegian graphic designer and typographer based in Drammen; a pioneer of professional graphic design in Norway from the 1960s.",
     "line2": "Known for corporate identities for Norsk Hydro, Storebrand, and Posten, and the 'Norway alphabet' for the Foreign Ministry.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://snl.no/Leif_Frimann_Anisdahl",
+      "portfolio": "https://www.google.com/search?udm=2&q=Leif+Frimann+Anisdahl+works"
+    }
   },
   {
     "slug": "sep-12",
@@ -3185,7 +4045,11 @@
     "line1": "American graphic designer based in New York; longtime associate art director at Alfred A. Knopf.",
     "line2": "Known for the Jurassic Park logo, hundreds of acclaimed book jacket designs, and writing on design and comics.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Chip_Kidd",
+      "portfolio": "https://chipkidd.com"
+    }
   },
   {
     "slug": "sep-13",
@@ -3197,7 +4061,11 @@
     "line1": "Swiss concrete artist and graphic designer based in Zurich; a key figure of Swiss Style typography and Concrete Art.",
     "line2": "Known for serial, modular abstract paintings, Swiss Style poster design, and co-founding the journal Neue Grafik.",
     "category": "Fine Artists & Photographers",
-    "categoryCode": "F&P"
+    "categoryCode": "F&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Richard_Paul_Lohse",
+      "portfolio": "http://www.lohse.ch"
+    }
   },
   {
     "slug": "sep-14",
@@ -3209,7 +4077,11 @@
     "line1": "American illustrator based in New York; owner and editor of the humor magazine Life in the early 20th century.",
     "line2": "Known for creating the iconic 'Gibson Girl,' pen-and-ink illustrations for Collier's and Harper's, and social satire.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Charles_Dana_Gibson",
+      "portfolio": "https://www.google.com/search?udm=2&q=Charles+Dana+Gibson+works"
+    }
   },
   {
     "slug": "sep-15",
@@ -3221,7 +4093,11 @@
     "line1": "American graphic designer, painter, and illustrator based in New York; former associate art director under Paul Rand.",
     "line2": "Known for illustrated children's and cookbooks, and advertising and editorial work for IBM, Doubleday, and Fortune.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://www.google.com/search?q=Helen+Federico+graphic+designer",
+      "portfolio": "https://www.google.com/search?udm=2&q=Helen+Federico+works"
+    }
   },
   {
     "slug": "sep-16",
@@ -3233,7 +4109,11 @@
     "line1": "Japanese painter, poet, and graphic designer active in the Taisho era; a largely self-taught, widely popular artist.",
     "line2": "Known as the symbol of 'Taisho romanticism' for lyrical bijin-ga paintings, book design, and kimono-textile patterns.",
     "category": "Fine Artists & Photographers",
-    "categoryCode": "F&P"
+    "categoryCode": "F&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Yumeji_Takehisa",
+      "portfolio": "https://www.google.com/search?udm=2&q=Yumeji+Takehisa+works"
+    }
   },
   {
     "slug": "sep-17",
@@ -3245,7 +4125,11 @@
     "line1": "Dutch graphic designer based in Amsterdam; longtime designer at the influential firm Total Design alongside Wim Crouwel.",
     "line2": "Known for Stedelijk Museum and Fodor exhibition catalogues, and book design including Heart Beat (2006).",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://www.google.com/search?q=Daphne+van+Peski",
+      "portfolio": "https://www.google.com/search?udm=2&q=Daphne+van+Peski+works"
+    }
   },
   {
     "slug": "sep-18",
@@ -3257,7 +4141,11 @@
     "line1": "British graphic designer based in London; worked at the Design Research Unit before co-founding Sedley Place in 1978.",
     "line2": "Known for designing the British Rail 'double arrow' logo in 1965, one of the UK's most enduring corporate symbols.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Gerry_Barney",
+      "portfolio": "https://www.google.com/search?udm=2&q=Gerry+Barney+works"
+    }
   },
   {
     "slug": "sep-19",
@@ -3269,7 +4157,11 @@
     "line1": "Japanese woodblock print artist and painter active in the early 20th century; a leading figure of the shin-hanga movement.",
     "line2": "Known for landscape print series depicting Japan, the US, and Europe, including views of Mt. Fuji and the Grand Canyon.",
     "category": "Fine Artists & Photographers",
-    "categoryCode": "F&P"
+    "categoryCode": "F&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Hiroshi_Yoshida",
+      "portfolio": "https://www.google.com/search?udm=2&q=Hiroshi+Yoshida+works"
+    }
   },
   {
     "slug": "sep-20",
@@ -3281,7 +4173,11 @@
     "line1": "French poster artist based in Paris; one of the last great names of 20th-century French commercial poster design.",
     "line2": "Known for iconic advertising posters for Perrier, Air France, and Bally shoes, rendered in bold flat color.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Bernard_Villemot",
+      "portfolio": "https://www.google.com/search?udm=2&q=Bernard+Villemot+works"
+    }
   },
   {
     "slug": "sep-21",
@@ -3293,7 +4189,11 @@
     "line1": "American animator and director based in Hollywood; longtime director at Warner Bros.' Looney Tunes studio.",
     "line2": "Known for directing Bugs Bunny, Daffy Duck, and Road Runner cartoons, and creating How the Grinch Stole Christmas (1966).",
     "category": "Digital, Motion & Product Designers",
-    "categoryCode": "D&P"
+    "categoryCode": "D&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Chuck_Jones",
+      "portfolio": "https://chuckjones.com"
+    }
   },
   {
     "slug": "sep-22",
@@ -3305,7 +4205,11 @@
     "line1": "French lithographer and poster artist based in Paris; a leading figure of the WWI-era 'Patriotic School' of propaganda art.",
     "line2": "Known for the WWI poster On ne passe pas!, decades of illustrated menus for the Cornet Society, and founding the Salon des Humoristes.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Maurice_Neumont",
+      "portfolio": "https://www.google.com/search?udm=2&q=Maurice+Neumont+works"
+    }
   },
   {
     "slug": "sep-23",
@@ -3317,7 +4221,11 @@
     "line1": "Czech printmaker, writer, and book artist based in Bohemia; a singular figure outside any established art movement.",
     "line2": "Known for thousands of hand-colored woodcuts, mystically themed handmade books, and the Portmoneum house in Litomyšl.",
     "category": "Fine Artists & Photographers",
-    "categoryCode": "F&P"
+    "categoryCode": "F&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Josef_Váchal",
+      "portfolio": "https://www.google.com/search?udm=2&q=Josef+Vachal+works"
+    }
   },
   {
     "slug": "sep-24",
@@ -3329,7 +4237,11 @@
     "line1": "British poster artist based in London; a leading designer for the London & North Eastern Railway between the world wars.",
     "line2": "Known for evocative railway travel posters and the WWII 'Your Britain - Fight for It Now' countryside campaign.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Frank_Newbould",
+      "portfolio": "https://www.google.com/search?udm=2&q=Frank+Newbould+works"
+    }
   },
   {
     "slug": "sep-25",
@@ -3341,7 +4253,11 @@
     "line1": "Latvian-born American painter based in New York; a leading figure of Abstract Expressionism and color field painting.",
     "line2": "Known for luminous, large-scale color field canvases and the murals created for the Rothko Chapel in Houston.",
     "category": "Fine Artists & Photographers",
-    "categoryCode": "F&P"
+    "categoryCode": "F&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Mark_Rothko",
+      "portfolio": "https://www.google.com/search?udm=2&q=Mark+Rothko+works"
+    }
   },
   {
     "slug": "sep-26",
@@ -3353,7 +4269,11 @@
     "line1": "American typeface designer based in the United Kingdom; former type designer at Microsoft in the 1990s.",
     "line2": "Known for designing the Comic Sans and Trebuchet MS typefaces, now among the most widely used fonts in the world.",
     "category": "Typographers & Type Designers",
-    "categoryCode": "T&T"
+    "categoryCode": "T&T",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Vincent_Connare",
+      "portfolio": "http://www.connare.com"
+    }
   },
   {
     "slug": "sep-27",
@@ -3365,7 +4285,11 @@
     "line1": "British graphic designer based in London; co-founder of the design consultancy Pentagram.",
     "line2": "Known for the V&A Museum's ampersand logo, corporate identity for Reuters, and his book The Art of Looking Sideways.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Alan_Fletcher_(graphic_designer)",
+      "portfolio": "http://www.alanfletcherarchive.com"
+    }
   },
   {
     "slug": "sep-28",
@@ -3377,7 +4301,11 @@
     "line1": "Swiss artist and illustrator based in Paris; a pioneer of the modern wordless artist's book.",
     "line2": "Known for accordion-fold 'Imageries' retelling fairy tales like Little Red Riding Hood and Snow White entirely in symbols.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Warja_Lavater",
+      "portfolio": "https://www.google.com/search?udm=2&q=Warja+Lavater+works"
+    }
   },
   {
     "slug": "sep-29",
@@ -3389,7 +4317,11 @@
     "line1": "Swiss graphic designer based in Basel; an early pioneer of grid-based typography that shaped the Swiss Style.",
     "line2": "Known for his 1928 'Büro' poster series and modular grid layouts that influenced International Typographic Style.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Théo_Ballmer",
+      "portfolio": "https://www.google.com/search?udm=2&q=Theo+Ballmer+works"
+    }
   },
   {
     "slug": "sep-30",
@@ -3401,7 +4333,11 @@
     "line1": "British poster designer based in London; longtime head of design at the London College of Printing.",
     "line2": "Known for witty, minimal posters for London Transport, the GPO, and wartime public information campaigns.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Tom_Eckersley",
+      "portfolio": "https://www.google.com/search?udm=2&q=Tom+Eckersley+works"
+    }
   },
   {
     "slug": "oct-01",
@@ -3413,7 +4349,11 @@
     "line1": "German Bauhaus-trained designer and photographer; led the Bauhaus metal workshop in Dessau in the late 1920s.",
     "line2": "Known for her modernist tea infusers and ashtrays, the Kandem bedside lamp, and experimental self-portrait photomontages.",
     "category": "Digital, Motion & Product Designers",
-    "categoryCode": "D&P"
+    "categoryCode": "D&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Marianne_Brandt",
+      "portfolio": "https://www.google.com/search?udm=2&q=Marianne+Brandt+works"
+    }
   },
   {
     "slug": "oct-02",
@@ -3425,7 +4365,11 @@
     "line1": "Austrian graphic and stage designer based in Vienna; co-founder and president of the Vienna Secession.",
     "line2": "Known for Ver Sacrum cover designs and Secession exhibition posters, and his stage designs with Gustav Mahler at the Vienna Court Opera.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Alfred_Roller",
+      "portfolio": "https://www.google.com/search?udm=2&q=Alfred+Roller+works"
+    }
   },
   {
     "slug": "oct-03",
@@ -3437,7 +4381,11 @@
     "line1": "Hungarian illustrator and graphic designer based in Budapest; vice president of the Society of Hungarian Illustrators.",
     "line2": "Known for children's book illustration, Hungarian film and theatre poster design, and the animated short Moon Film.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Dóra_Keresztes",
+      "portfolio": "https://www.google.com/search?udm=2&q=Dóra+Keresztes+works"
+    }
   },
   {
     "slug": "oct-04",
@@ -3449,7 +4397,11 @@
     "line1": "Hungarian-born artist and designer who taught visual design at MIT after emigrating to the U.S. in 1937.",
     "line2": "Known for founding MIT's Center for Advanced Visual Studies and writing the influential book The Language of Vision.",
     "category": "Digital, Motion & Product Designers",
-    "categoryCode": "D&P"
+    "categoryCode": "D&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/György_Kepes",
+      "portfolio": "https://www.google.com/search?udm=2&q=György+Kepes+works"
+    }
   },
   {
     "slug": "oct-05",
@@ -3461,7 +4413,11 @@
     "line1": "Canadian-born American illustrator based in Portland, Oregon; longtime album artist for the band The Decemberists.",
     "line2": "Known for illustrating The Mysterious Benedict Society, her Caldecott Honor book Du Iz Tak?, and The Decemberists' album art.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Carson_Ellis",
+      "portfolio": "https://www.carsonellis.com"
+    }
   },
   {
     "slug": "oct-06",
@@ -3473,7 +4429,11 @@
     "line1": "American graphic designer and painter based in New York; partner at Pentagram since 1991.",
     "line2": "Known for her identity and poster designs for The Public Theater, Citibank, and Tiffany & Co.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Paula_Scher",
+      "portfolio": "https://www.google.com/search?udm=2&q=Paula+Scher+works"
+    }
   },
   {
     "slug": "oct-07",
@@ -3485,7 +4445,11 @@
     "line1": "American illustrator who became a U.S. postage stamp designer at the Bureau of Engraving and Printing from 1947.",
     "line2": "Known for designing roughly 77 U.S. stamps, including the 1962 Project Mercury issue, after years as a magazine illustrator.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Charles_R._Chickering",
+      "portfolio": "https://www.google.com/search?udm=2&q=Charles+R.+Chickering+works"
+    }
   },
   {
     "slug": "oct-08",
@@ -3497,7 +4461,11 @@
     "line1": "Uruguayan graphic designer and mail artist based in Montevideo; imprisoned in the late 1970s for his political art.",
     "line2": "Known for pioneering Latin American mail art, organizing the Creative Postcard Festival, and editing the magazine OVUM 10.",
     "category": "Fine Artists & Photographers",
-    "categoryCode": "F&P"
+    "categoryCode": "F&P",
+    "links": {
+      "profile": "https://jacket2.org/content/clemente-pad%C3%ADn",
+      "portfolio": "https://www.google.com/search?udm=2&q=Clemente+Padín+works"
+    }
   },
   {
     "slug": "oct-09",
@@ -3509,7 +4477,11 @@
     "line1": "English graphic designer and art director based in London; co-founder and art director of Factory Records in Manchester.",
     "line2": "Known for album covers for Joy Division's Unknown Pleasures and New Order's Blue Monday, and the Haçienda nightclub branding.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Peter_Saville_(graphic_designer)",
+      "portfolio": "https://www.google.com/search?udm=2&q=Peter+Saville+works"
+    }
   },
   {
     "slug": "oct-10",
@@ -3521,7 +4493,11 @@
     "line1": "Austro-Hungarian-born American letterer and logo designer; longtime in-house staff artist at DC Comics from the 1940s through the 1960s.",
     "line2": "Known for designing the Superman and Batman logos, DC's signature cover lettering, and decades of the company's house ads.",
     "category": "Typographers & Type Designers",
-    "categoryCode": "T&T"
+    "categoryCode": "T&T",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Ira_Schnapp",
+      "portfolio": "https://www.google.com/search?udm=2&q=Ira+Schnapp+works"
+    }
   },
   {
     "slug": "oct-11",
@@ -3533,7 +4509,11 @@
     "line1": "American comic book writer and artist based in New York; first editor-in-chief of Timely Comics, the predecessor to Marvel.",
     "line2": "Known for co-creating Captain America with Jack Kirby, pioneering the romance comics genre, and founding Sick magazine.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Joe_Simon",
+      "portfolio": "https://www.google.com/search?udm=2&q=Joe+Simon+works"
+    }
   },
   {
     "slug": "oct-12",
@@ -3545,7 +4525,11 @@
     "line1": "American graphic designer and educator based in Michigan; co-chaired Cranbrook Academy of Art's graduate design program for over two decades.",
     "line2": "Known for shaping postmodern graphic design pedagogy at Cranbrook, co-founding the High Ground design conference, and winning the AIGA Medal.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Katherine_McCoy",
+      "portfolio": "https://www.google.com/search?udm=2&q=Katherine+McCoy+works"
+    }
   },
   {
     "slug": "oct-13",
@@ -3557,7 +4541,11 @@
     "line1": "Australian illustrator and author based in Melbourne; first Australian to win the Hans Christian Andersen Award for illustration, in 1986.",
     "line2": "Known for illustrated editions of Treasure Island and Peter Pan, and the Encyclopedia of Things That Never Were.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Robert_Ingpen",
+      "portfolio": "https://www.google.com/search?udm=2&q=Robert+Ingpen+works"
+    }
   },
   {
     "slug": "oct-14",
@@ -3569,7 +4557,11 @@
     "line1": "[LOW CONFIDENCE] Indonesian illustrator and graphic designer working in a bold, lettering-driven commercial style.",
     "line2": "Known for editorial and poster illustration work and hand-lettered typographic design.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://www.google.com/search?udm=2&q=Titus+Yocarini+works",
+      "portfolio": "https://www.google.com/search?udm=2&q=Titus+Yocarini+works"
+    }
   },
   {
     "slug": "oct-15",
@@ -3581,7 +4573,11 @@
     "line1": "American graphic designer based in Portland, Oregon; founder of Draplin Design Co. (DDC).",
     "line2": "Known for Field Notes notebook branding, bold Rust Belt-inspired logo and poster design, and the book Pretty Much Everything.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Aaron_Draplin",
+      "portfolio": "https://draplin.com"
+    }
   },
   {
     "slug": "oct-16",
@@ -3593,7 +4589,11 @@
     "line1": "Canadian poet, typographer, and translator based in British Columbia; trained in classical typesetting and book design.",
     "line2": "Known for writing The Elements of Typographic Style, translating Haida oral literature, and co-authoring The Raven Steals the Light.",
     "category": "Typographers & Type Designers",
-    "categoryCode": "T&T"
+    "categoryCode": "T&T",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Robert_Bringhurst",
+      "portfolio": "https://www.google.com/search?udm=2&q=Robert+Bringhurst+works"
+    }
   },
   {
     "slug": "oct-17",
@@ -3605,7 +4605,11 @@
     "line1": "Belgian comic artist based in Brussels; son of Tintin collaborator Bob De Moor.",
     "line2": "Known for continuing the comic strip Cubitus after creator Dupa's death, and co-creating the series Le Moine fou.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://www.google.com/search?udm=2&q=Johan+De+Moor+works",
+      "portfolio": "https://www.google.com/search?udm=2&q=Johan+De+Moor+works"
+    }
   },
   {
     "slug": "oct-18",
@@ -3617,7 +4621,11 @@
     "line1": "British-born illustrator and author based in Australia; known for richly detailed, surreal picture-book art.",
     "line2": "Known for The Paperbag Prince, How to Live Forever, and the Floods fantasy novel series.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Colin_Thompson_(writer)",
+      "portfolio": "https://www.google.com/search?udm=2&q=Colin+Thompson+works"
+    }
   },
   {
     "slug": "oct-19",
@@ -3629,7 +4637,11 @@
     "line1": "Belgian painter and printmaker based in Paris; founding member of the CoBrA art movement.",
     "line2": "Known for gestural calligraphic abstraction, comic-strip-like marginal panels, and acrylic-on-paper technique.",
     "category": "Fine Artists & Photographers",
-    "categoryCode": "F&P"
+    "categoryCode": "F&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Pierre_Alechinsky",
+      "portfolio": "https://www.google.com/search?udm=2&q=Pierre+Alechinsky+works"
+    }
   },
   {
     "slug": "oct-20",
@@ -3641,7 +4653,11 @@
     "line1": "[LOW CONFIDENCE] German graphic designer; former chief graphic designer of the European Economic Community.",
     "line2": "Known for designing the euro currency symbol (€), based on the Greek letter epsilon.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Arthur_Eisenmenger",
+      "portfolio": "https://www.google.com/search?udm=2&q=Arthur+Eisenmenger+works"
+    }
   },
   {
     "slug": "oct-21",
@@ -3653,7 +4669,11 @@
     "line1": "American visual artist and animator; influential color stylist at Walt Disney Studios in the 1940s-50s.",
     "line2": "Known for concept art on Cinderella, Alice in Wonderland, and Peter Pan, and designing It's a Small World.",
     "category": "Digital, Motion & Product Designers",
-    "categoryCode": "D&P"
+    "categoryCode": "D&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Mary_Blair",
+      "portfolio": "https://www.google.com/search?udm=2&q=Mary+Blair+works"
+    }
   },
   {
     "slug": "oct-22",
@@ -3665,7 +4685,11 @@
     "line1": "French-born illustrator naturalized as a British citizen; leading figure of the golden age of illustration.",
     "line2": "Known for lavish fairy-tale illustrations for The Arabian Nights and Hans Christian Andersen, and British banknote design.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Edmund_Dulac",
+      "portfolio": "https://www.google.com/search?udm=2&q=Edmund+Dulac+works"
+    }
   },
   {
     "slug": "oct-23",
@@ -3677,7 +4701,11 @@
     "line1": "American comic book writer and artist based in California; multiple Eisner Award winner.",
     "line2": "Known for the historical epic Age of Bronze, his adaptations of L. Frank Baum's Oz books, and Little Nemo: Return to Slumberland.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Eric_Shanower",
+      "portfolio": "https://www.google.com/search?udm=2&q=Eric+Shanower+works"
+    }
   },
   {
     "slug": "oct-24",
@@ -3689,7 +4717,11 @@
     "line1": "Italian artist and designer based in Milan; started in the Futurist movement before shaping postwar Italian design.",
     "line2": "Known for his Useless Machines sculptures, innovative children's books, and industrial design for Danese.",
     "category": "Digital, Motion & Product Designers",
-    "categoryCode": "D&P"
+    "categoryCode": "D&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Bruno_Munari",
+      "portfolio": "https://www.google.com/search?udm=2&q=Bruno+Munari+works"
+    }
   },
   {
     "slug": "oct-25",
@@ -3701,7 +4733,11 @@
     "line1": "German graphic designer and illustrator based in Kassel; a leading figure in postwar German film poster design.",
     "line2": "Known for minimalist posters for the Neue Filmkunst distributor and New German Cinema, and comic adaptations of The Trial and Moby-Dick.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://de.wikipedia.org/wiki/Hans_Georg_Hillmann",
+      "portfolio": "https://www.hanshillmann.de/"
+    }
   },
   {
     "slug": "oct-26",
@@ -3713,7 +4749,11 @@
     "line1": "Czech (Moravian) painter and graphic artist active around 1900; a leading figure of Art Nouveau in Moravia.",
     "line2": "Known for vivid paintings of Moravian Slovácko folk life and costume, including Ride of the Kings, and close ties to Alphonse Mucha's circle.",
     "category": "Fine Artists & Photographers",
-    "categoryCode": "F&P"
+    "categoryCode": "F&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Joža_Uprka",
+      "portfolio": "https://www.google.com/search?udm=2&q=Joža+Uprka+works"
+    }
   },
   {
     "slug": "oct-27",
@@ -3725,7 +4765,11 @@
     "line1": "American type designer and lettering artist based in New York; longtime creative force at Photo-Lettering Inc. and ITC.",
     "line2": "Known for the ITC Benguiat and Tiffany typefaces, and logos for Planet of the Apes, The A-Team, and Esquire magazine.",
     "category": "Typographers & Type Designers",
-    "categoryCode": "T&T"
+    "categoryCode": "T&T",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Ed_Benguiat",
+      "portfolio": "https://www.google.com/search?udm=2&q=Ed+Benguiat+works"
+    }
   },
   {
     "slug": "oct-28",
@@ -3737,7 +4781,11 @@
     "line1": "British graphic and icon designer based in the UK; founder of the design studio Hicksdesign.",
     "line2": "Known for designing the Firefox browser logo, the Skype icon, and the original CSS3 shield badge.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://www.google.com/search?udm=2&q=Jon+Hicks+designer",
+      "portfolio": "https://hicks.design"
+    }
   },
   {
     "slug": "oct-29",
@@ -3749,7 +4797,11 @@
     "line1": "German-born British typographer and book designer based in London; taught at the Central School of Art and Design.",
     "line2": "Known for designing the Albertus typeface, decades of Faber & Faber book jacket designs, and the Fanfare and Sachsenwald typefaces.",
     "category": "Typographers & Type Designers",
-    "categoryCode": "T&T"
+    "categoryCode": "T&T",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Berthold_Wolpe",
+      "portfolio": "https://www.google.com/search?udm=2&q=Berthold+Wolpe+works"
+    }
   },
   {
     "slug": "oct-30",
@@ -3761,7 +4813,11 @@
     "line1": "[LOW CONFIDENCE] Swiss graphic designer and poster artist based in Basel, active from the 1930s through the 1960s.",
     "line2": "Known for bold, witty advertising posters for Swiss brands, part of the mid-20th-century Basel school of poster art alongside Herbert Leupin.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "http://www.sikart.ch/KuenstlerInnen.aspx?id=4000290",
+      "portfolio": "https://www.google.com/search?udm=2&q=Donald+Brun+works"
+    }
   },
   {
     "slug": "oct-31",
@@ -3773,7 +4829,11 @@
     "line1": "[LOW CONFIDENCE] British graphic designer and illustrator active in London from the 1950s to the 1970s.",
     "line2": "Known for modernist book jacket designs for Penguin and Pelican Books, and work as a design tutor at the Central School of Art and Design.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/James_Broom-Lynne",
+      "portfolio": "https://www.broom-lynne.com"
+    }
   },
   {
     "slug": "nov-01",
@@ -3785,7 +4845,11 @@
     "line1": "Japanese-born illustrator based in New York City; longtime faculty member at the School of Visual Arts.",
     "line2": "Known for her covers for Vertigo's The Unwritten, editorial art for The New York Times and TIME, and multiple Society of Illustrators medals.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Yuko_Shimizu_(artist)",
+      "portfolio": "https://yukoart.com"
+    }
   },
   {
     "slug": "nov-02",
@@ -3797,7 +4861,11 @@
     "line1": "American comic book artist and writer based in New York City; co-creator at Marvel Comics in the 1960s.",
     "line2": "Known for co-creating Spider-Man and Doctor Strange, and for later creating the Question and Mr. A.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Steve_Ditko",
+      "portfolio": "https://www.google.com/search?udm=2&q=Steve+Ditko+works"
+    }
   },
   {
     "slug": "nov-03",
@@ -3809,7 +4877,11 @@
     "line1": "German-born painter and stained-glass artist who later became a naturalized Dutch citizen; youngest member of Der Blaue Reiter.",
     "line2": "Known for his Expressionist paintings alongside Franz Marc and Kandinsky, stained-glass windows, and later teaching in Amsterdam.",
     "category": "Fine Artists & Photographers",
-    "categoryCode": "F&P"
+    "categoryCode": "F&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Heinrich_Campendonk",
+      "portfolio": "https://www.google.com/search?udm=2&q=Heinrich+Campendonk+works"
+    }
   },
   {
     "slug": "nov-04",
@@ -3821,7 +4893,11 @@
     "line1": "American graphic designer and educator based in Los Angeles and New Haven; first woman tenured at Yale School of Art.",
     "line2": "Known for co-founding the Woman's Building in L.A., chairing Yale's graphic design program, and the public artwork Biddy Mason: Time and Place.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Sheila_Levrant_de_Bretteville",
+      "portfolio": "https://www.google.com/search?udm=2&q=Sheila+Levrant+de+Bretteville+works"
+    }
   },
   {
     "slug": "nov-05",
@@ -3833,7 +4909,11 @@
     "line1": "Dutch graphic designer based in the Netherlands; ran his own Amsterdam studio, later Rouwhorst + Van Roon, for five decades.",
     "line2": "Known for posters, logos, and book covers for clients including VPRO, NOS, Nijgh & Van Ditmar, and Triodos Bank.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://www.google.com/search?udm=2&q=Ron+van+Roon+works",
+      "portfolio": "https://www.google.com/search?udm=2&q=Ron+van+Roon+works"
+    }
   },
   {
     "slug": "nov-06",
@@ -3845,7 +4925,11 @@
     "line1": "French poster artist based in Paris; trained under A.M. Cassandre before becoming a leading 20th-century poster designer.",
     "line2": "Known for his 1949 Monsavon soap poster, humorous ad campaigns for Air France and Cinzano, and the 1951 Grand Prix de l'Affiche.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Raymond_Savignac",
+      "portfolio": "https://www.google.com/search?udm=2&q=Raymond+Savignac+works"
+    }
   },
   {
     "slug": "nov-07",
@@ -3857,7 +4941,11 @@
     "line1": "Ivorian graphic designer and illustrator based in Abidjan; began a yearlong emoji-a-day project in 2018 called Zouzoukwa.",
     "line2": "Known for his Zouzoukwa emoji celebrating West African culture, designing UNHCR's World Refugee Day emoji, and proposing new Unicode symbols.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://www.behance.net/OPlerou",
+      "portfolio": "https://oplerou.studio"
+    }
   },
   {
     "slug": "nov-08",
@@ -3869,7 +4957,11 @@
     "line1": "German type designer and calligrapher based in Darmstadt; worked across the hot-metal, phototype, and digital typesetting eras.",
     "line2": "Known for designing the typefaces Palatino, Optima, and Zapfino.",
     "category": "Typographers & Type Designers",
-    "categoryCode": "T&T"
+    "categoryCode": "T&T",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Hermann_Zapf",
+      "portfolio": "https://www.google.com/search?udm=2&q=Hermann+Zapf+works"
+    }
   },
   {
     "slug": "nov-09",
@@ -3881,7 +4973,11 @@
     "line1": "Czech-born graphic designer based in New York; pioneer of information design and former director of Prague's State School of Graphic Arts.",
     "line2": "Known for his information design at Sweet's Catalog Service, popularizing parentheses around phone area codes, and the book Visual Design in Action.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Ladislav_Sutnar",
+      "portfolio": "https://www.google.com/search?udm=2&q=Ladislav+Sutnar+works"
+    }
   },
   {
     "slug": "nov-10",
@@ -3893,7 +4989,11 @@
     "line1": "Swiss-born illustrator and poster designer naturalized French in 1901; central figure of Montmartre's Chat Noir cabaret scene.",
     "line2": "Known for his iconic Chat Noir poster, cover illustrations for Gil Blas Illustré, and socially engaged Belle Époque lithographs.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Théophile_Steinlen",
+      "portfolio": "https://www.google.com/search?udm=2&q=Théophile+Steinlen+works"
+    }
   },
   {
     "slug": "nov-11",
@@ -3905,7 +5005,11 @@
     "line1": "Swiss painter and theorist who taught the foundational preliminary course (Vorkurs) at the Bauhaus in Weimar during the 1920s.",
     "line2": "Known for pioneering color theory, the twelve-hue color wheel and seven contrasts of color, and his book The Art of Color.",
     "category": "Fine Artists & Photographers",
-    "categoryCode": "F&P"
+    "categoryCode": "F&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Johannes_Itten",
+      "portfolio": "https://www.google.com/search?udm=2&q=Johannes+Itten+works"
+    }
   },
   {
     "slug": "nov-12",
@@ -3917,7 +5021,11 @@
     "line1": "American commercial illustrator based in New York; a leading mid-century \"Mad Men\"-era figure in magazine and advertising art.",
     "line2": "Known for illustrations in The Saturday Evening Post and Ladies' Home Journal, and ad campaigns for United Airlines and General Motors.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Mac_Conner",
+      "portfolio": "https://www.google.com/search?udm=2&q=Mac+Conner+works"
+    }
   },
   {
     "slug": "nov-13",
@@ -3929,7 +5037,11 @@
     "line1": "Dutch graphic designer and filmmaker based in Amsterdam; co-founder of the politically engaged design collective Wild Plakken.",
     "line2": "Known for anti-apartheid protest posters, teaching at the Gerrit Rietveld Academie, and later documentary filmmaking for VPRO.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://nl.wikipedia.org/wiki/Rob_Schröder_(illustrator)",
+      "portfolio": "https://www.google.com/search?udm=2&q=Rob+Schröder+works"
+    }
   },
   {
     "slug": "nov-14",
@@ -3941,7 +5053,11 @@
     "line1": "Dutch designer and architect; longtime art director at Philips from the mid-1920s through the 1950s.",
     "line2": "Known for designing the Philips logo, the Evoluon building in Eindhoven, and the 1958 Philips Pavilion with Le Corbusier.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://nl.wikipedia.org/wiki/Louis_Kalff",
+      "portfolio": "https://www.google.com/search?udm=2&q=Louis+Kalff+works"
+    }
   },
   {
     "slug": "nov-15",
@@ -3953,7 +5069,11 @@
     "line1": "Italian graphic designer and former WWII partisan based in Milan; art director at La Rinascente in the early 1950s.",
     "line2": "Known for the original Coop supermarket logo, book design for Feltrinelli and Zanichelli, and co-founding Italy's ADI design association.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://it.wikipedia.org/wiki/Albe_Steiner",
+      "portfolio": "https://www.google.com/search?udm=2&q=Albe+Steiner+works"
+    }
   },
   {
     "slug": "nov-16",
@@ -3965,7 +5085,11 @@
     "line1": "American graphic designer based in Redding, Connecticut; the first full-time art director of Spy magazine in the 1980s.",
     "line2": "Known for founding Alexander Isley Inc., branding and packaging work held in MoMA's permanent collection, and the 2014 AIGA Medal.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Alexander_Isley",
+      "portfolio": "https://alexanderisley.com"
+    }
   },
   {
     "slug": "nov-17",
@@ -3977,7 +5101,11 @@
     "line1": "New York-born graphic designer who built his influential practice in Los Angeles starting in 1949.",
     "line2": "Known for identity and advertising work for the Container Corporation of America and LACMA, and the 1998 AIGA Medal.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Louis_Danziger",
+      "portfolio": "https://www.google.com/search?udm=2&q=Louis+Danziger+works"
+    }
   },
   {
     "slug": "nov-18",
@@ -3989,7 +5117,11 @@
     "line1": "German typographer and book designer based in Leipzig; longtime professor at the Hochschule für Grafik und Buchkunst.",
     "line2": "Known for designing the Maxima sans-serif typeface family, widely used in East Germany, and the Leipzig Gutenberg Prize.",
     "category": "Typographers & Type Designers",
-    "categoryCode": "T&T"
+    "categoryCode": "T&T",
+    "links": {
+      "profile": "https://de.wikipedia.org/wiki/Gert_Wunderlich_(Typograf)",
+      "portfolio": "https://www.google.com/search?udm=2&q=Gert+Wunderlich+works"
+    }
   },
   {
     "slug": "nov-19",
@@ -4001,7 +5133,11 @@
     "line1": "Spanish street artist and muralist based in Madrid, working under the name Okuda San Miguel.",
     "line2": "Known for the Kaos Temple skate park mural in Spain, large-scale geometric murals worldwide, and colorful pop-surrealist sculpture.",
     "category": "Fine Artists & Photographers",
-    "categoryCode": "F&P"
+    "categoryCode": "F&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Okuda_San_Miguel",
+      "portfolio": "https://okudart.es"
+    }
   },
   {
     "slug": "nov-20",
@@ -4013,7 +5149,11 @@
     "line1": "American pop artist and former Catholic nun known as Sister Mary Corita; taught art at Immaculate Heart College in Los Angeles.",
     "line2": "Known for bold serigraph prints with social justice messages, the 1985 U.S. Postal Service LOVE stamp, and Boston's rainbow gas tank mural.",
     "category": "Fine Artists & Photographers",
-    "categoryCode": "F&P"
+    "categoryCode": "F&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Corita_Kent",
+      "portfolio": "https://www.google.com/search?udm=2&q=Corita+Kent+works"
+    }
   },
   {
     "slug": "nov-21",
@@ -4025,7 +5165,11 @@
     "line1": "Dutch graphic designer and typographer based in Amsterdam; co-founder of the influential design firm Total Design.",
     "line2": "Known for the grid-based New Alphabet typeface, posters and catalogs for the Stedelijk Museum, and Dutch postage stamp designs.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Wim_Crouwel",
+      "portfolio": "https://www.google.com/search?udm=2&q=Wim+Crouwel+works"
+    }
   },
   {
     "slug": "nov-22",
@@ -4037,7 +5181,11 @@
     "line1": "Iranian-born graphic novelist, illustrator, and filmmaker based in Paris, France.",
     "line2": "Known for the autobiographical graphic novel Persepolis, its Oscar-nominated animated film adaptation, and Chicken with Plums.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Marjane_Satrapi",
+      "portfolio": "https://www.google.com/search?udm=2&q=Marjane+Satrapi+works"
+    }
   },
   {
     "slug": "nov-23",
@@ -4049,7 +5197,11 @@
     "line1": "Russian artist and graphic designer, a leading figure of early 20th-century Constructivism and Suprematism.",
     "line2": "Known for the propaganda poster Beat the Whites with the Red Wedge, his Proun series, and pioneering modernist typography and exhibition design.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/El_Lissitzky",
+      "portfolio": "https://www.google.com/search?udm=2&q=El+Lissitzky+works"
+    }
   },
   {
     "slug": "nov-24",
@@ -4061,7 +5213,11 @@
     "line1": "American animation artist and designer based in Los Angeles; longtime collaborator of John Kricfalusi at Spumco.",
     "line2": "Known for background art and design on The Ren & Stimpy Show, and later directing and design work for Cartoon Network and Nickelodeon.",
     "category": "Digital, Motion & Product Designers",
-    "categoryCode": "D&P"
+    "categoryCode": "D&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Chris_Reccardi",
+      "portfolio": "https://www.google.com/search?udm=2&q=Chris+Reccardi+works"
+    }
   },
   {
     "slug": "nov-25",
@@ -4073,7 +5229,11 @@
     "line1": "Polish-born graphic designer based in London; fled to Britain as a refugee after surviving World War II.",
     "line2": "Known for creating the influential \"Marber Grid\" cover template used on Penguin Books' crime and fiction series in the 1960s.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Romek_Marber",
+      "portfolio": "https://www.google.com/search?udm=2&q=Romek+Marber+works"
+    }
   },
   {
     "slug": "nov-26",
@@ -4085,7 +5245,11 @@
     "line1": "Japanese illustrator and airbrush artist based in Tokyo, active from the 1970s through the 1990s.",
     "line2": "Known for airbrushed album art for Earth, Wind & Fire including I Am and Faces, and key visual art for the Mobile Suit Gundam anime franchise.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Shusei_Nagaoka",
+      "portfolio": "https://shuseinagaoka.net/"
+    }
   },
   {
     "slug": "nov-27",
@@ -4097,7 +5261,11 @@
     "line1": "[LOW CONFIDENCE] Finnish illustrator and graphic designer based in Helsinki, known for playful, flat-color editorial illustration.",
     "line2": "Known for whimsical illustrations for international magazines, advertising campaigns, and children's book projects.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://www.agentmolly.com/illustration/?artist=fideli-sundqvist",
+      "portfolio": "https://fidelisundqvist.com"
+    }
   },
   {
     "slug": "nov-28",
@@ -4109,7 +5277,11 @@
     "line1": "Turkish graphic designer and poster artist active in Istanbul from the 1920s to the 1960s; a pioneer of modern Turkish graphic design.",
     "line2": "Known for iconic advertising posters for Turkish cigarette brands, wartime propaganda posters, and early Turkish corporate branding work.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/İhap_Hulusi_Görey",
+      "portfolio": "https://www.google.com/search?udm=2&q=İhap+Hulusi+Görey+works"
+    }
   },
   {
     "slug": "nov-29",
@@ -4133,7 +5305,11 @@
     "line1": "[LOW CONFIDENCE] Croatian cartoonist and illustrator based in Zagreb, active across much of the 20th century.",
     "line2": "Known for satirical cartoons in Kerempuh magazine and drawings documenting his imprisonment at the Jasenovac concentration camp.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Alfred_Pal",
+      "portfolio": "https://www.google.com/search?udm=2&q=Alfred+Pal+works"
+    }
   },
   {
     "slug": "dec-01",
@@ -4145,7 +5321,11 @@
     "line1": "[LOW CONFIDENCE] American color consultant and designer active in the postwar era; a pioneering voice in color forecasting for industry.",
     "line2": "Known for advising manufacturers on color trends, consulting on package and product color schemes, and shaping the color-forecasting profession.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Dorothy_E._Hayes",
+      "portfolio": "https://www.google.com/search?udm=2&q=Dorothy+E.+Hayes+works"
+    }
   },
   {
     "slug": "dec-02",
@@ -4157,7 +5337,11 @@
     "line1": "[LOW CONFIDENCE] German type designer active in Dresden in the early twentieth century, working in the geometric sans-serif New Typography tradition.",
     "line2": "Known for designing the geometric sans-serif typeface Element, produced for the Schriftguss AG Dresden type foundry.",
     "category": "Typographers & Type Designers",
-    "categoryCode": "T&T"
+    "categoryCode": "T&T",
+    "links": {
+      "profile": "https://de.wikipedia.org/wiki/Herbert_Thannhaeuser",
+      "portfolio": "https://www.google.com/search?udm=2&q=Herbert+Thannhaeuser+works"
+    }
   },
   {
     "slug": "dec-03",
@@ -4169,7 +5353,11 @@
     "line1": "Italian graphic designer based in Milan; a leading figure of the postwar Studio Boggeri circle and member of Alliance Graphique Internationale.",
     "line2": "Known for the identity and signage system for the Milan Metro, corporate design for La Rinascente, and rational Swiss-influenced visual systems.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Pino_Tovaglia",
+      "portfolio": "https://www.google.com/search?udm=2&q=Pino+Tovaglia+works"
+    }
   },
   {
     "slug": "dec-04",
@@ -4181,7 +5369,11 @@
     "line1": "American illustrator based in New York; one of the most sought-after movie poster artists of the 1970s and 1980s.",
     "line2": "Known for the posters for Raiders of the Lost Ark, The Sting, and Flash Gordon, plus numerous Rolling Stone covers.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Richard_Amsel",
+      "portfolio": "https://www.google.com/search?udm=2&q=Richard+Amsel+works"
+    }
   },
   {
     "slug": "dec-05",
@@ -4193,7 +5385,11 @@
     "line1": "American graphic designer and artist trained at the Basel School of Design; later practiced as a landscape architect in California.",
     "line2": "Known for pioneering bold 'supergraphics' murals at the Sea Ranch Athletic Club, blending Swiss design discipline with American pop scale.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Barbara_Stauffacher_Solomon",
+      "portfolio": "https://www.google.com/search?udm=2&q=Barbara+Stauffacher+Solomon+works"
+    }
   },
   {
     "slug": "dec-06",
@@ -4205,7 +5401,11 @@
     "line1": "[LOW CONFIDENCE] Swiss graphic designer active in the mid-twentieth century, working within the Swiss International Style design tradition.",
     "line2": "Known for poster and corporate design work produced in Switzerland's postwar design scene, among its Basel- and Zurich-trained designers.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://de.wikipedia.org/wiki/Hans_Hartmann_(Grafiker)",
+      "portfolio": "https://www.google.com/search?udm=2&q=Hans+Hartmann+works"
+    }
   },
   {
     "slug": "dec-07",
@@ -4217,7 +5417,11 @@
     "line1": "American painter based in New York; a pioneering modernist who bridged Cubism and an emerging American pop sensibility.",
     "line2": "Known for the paintings Lucky Strike, Swing Landscape, and Visa, which fused commercial lettering and jazz rhythm into fine art.",
     "category": "Fine Artists & Photographers",
-    "categoryCode": "F&P"
+    "categoryCode": "F&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Stuart_Davis_(painter)",
+      "portfolio": "https://www.google.com/search?udm=2&q=Stuart+Davis+works"
+    }
   },
   {
     "slug": "dec-08",
@@ -4229,7 +5433,11 @@
     "line1": "Czech-born graphic designer based in Montreal; co-founder of the influential design firm Gottschalk+Ash International.",
     "line2": "Known for signage and graphics for Expo 67, Canadian corporate identity programs, and stamp designs for Canada Post.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://www.google.com/search?udm=2&q=Ernst+Roch+Gottschalk+Ash+graphic+designer",
+      "portfolio": "https://www.google.com/search?udm=2&q=Ernst+Roch+works"
+    }
   },
   {
     "slug": "dec-09",
@@ -4241,7 +5449,11 @@
     "line1": "Dutch graphic designer based in Rotterdam; a leading figure in postwar Dutch exhibition and poster design.",
     "line2": "Known for posters and displays for the De Bijenkorf department store, exhibition design, and large-scale public tapestries and murals.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Dick_Elffers",
+      "portfolio": "https://www.google.com/search?udm=2&q=Dick+Elffers+works"
+    }
   },
   {
     "slug": "dec-10",
@@ -4253,7 +5465,11 @@
     "line1": "Ukrainian-born American painter and printmaker based in New York; a central figure of the Precisionist movement.",
     "line2": "Known for machine-age lithographs of American skylines and bridges, including his New York series celebrating industrial modernity.",
     "category": "Fine Artists & Photographers",
-    "categoryCode": "F&P"
+    "categoryCode": "F&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Louis_Lozowick",
+      "portfolio": "https://www.google.com/search?udm=2&q=Louis+Lozowick+works"
+    }
   },
   {
     "slug": "dec-11",
@@ -4265,7 +5481,11 @@
     "line1": "German-born printmaker based in the Netherlands; creator of the visual language behind Otto Neurath's Isotype system.",
     "line2": "Known for designing thousands of simplified pictograms used in the Vienna Method of picture statistics, and for his woodcut prints.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Gerd_Arntz",
+      "portfolio": "https://www.gerdarntz.org"
+    }
   },
   {
     "slug": "dec-12",
@@ -4277,7 +5497,11 @@
     "line1": "Swiss-born graphic designer based in New York; trained in Zurich and shaped by Geigy's pioneering in-house design studio before emigrating.",
     "line2": "Known for corporate identity and poster design for Geigy in Switzerland, and decades of identity and exhibition design work in New York.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Fred_Troller",
+      "portfolio": "https://www.google.com/search?udm=2&q=Fred+Troller+works"
+    }
   },
   {
     "slug": "dec-13",
@@ -4289,7 +5513,11 @@
     "line1": "Czech avant-garde typographer and critic based in Prague; leading theorist of the Devětsil group between the world wars.",
     "line2": "Known for radical typography and book covers for Czech poetist literature, photomontage work, and influential writings on modern architecture.",
     "category": "Typographers & Type Designers",
-    "categoryCode": "T&T"
+    "categoryCode": "T&T",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Karel_Teige",
+      "portfolio": "https://www.google.com/search?udm=2&q=Karel+Teige+works"
+    }
   },
   {
     "slug": "dec-14",
@@ -4301,7 +5529,11 @@
     "line1": "American-born poster artist based in London; one of the most influential commercial artists of the early twentieth century.",
     "line2": "Known for his posters for the London Underground, advertising work for Shell, and bold modernist eagle and dove motifs.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Edward_McKnight_Kauffer",
+      "portfolio": "https://www.google.com/search?udm=2&q=Edward+McKnight+Kauffer+works"
+    }
   },
   {
     "slug": "dec-15",
@@ -4313,7 +5545,11 @@
     "line1": "German graphic designer based in Munich; part of the design team behind the visual identity of the 1972 Munich Olympics.",
     "line2": "Known for Olympic signage and pictograms, founding his own Büro Rolf Müller studio, and corporate design for German clients.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Rolf_Müller_(designer)",
+      "portfolio": "http://www.buerorolfmueller.de"
+    }
   },
   {
     "slug": "dec-16",
@@ -4325,7 +5561,11 @@
     "line1": "Russian-born painter based in Germany and later Paris; a founding pioneer of abstract art and Bauhaus faculty member.",
     "line2": "Known for the Composition series, his role in the Blue Rider circle, and the theoretical writings Concerning the Spiritual in Art.",
     "category": "Fine Artists & Photographers",
-    "categoryCode": "F&P"
+    "categoryCode": "F&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Wassily_Kandinsky",
+      "portfolio": "https://www.google.com/search?udm=2&q=Wassily+Kandinsky+works"
+    }
   },
   {
     "slug": "dec-17",
@@ -4337,7 +5577,11 @@
     "line1": "Filipino-American graphic designer based in San Francisco and later New York; chaired the MFA Design program at Parsons.",
     "line2": "Known for narrative-driven identity and book design through her studio Tenazas Design, and receiving the AIGA Medal in 2015.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Lucille_Tenazas",
+      "portfolio": "https://www.tenazasdesign.com/"
+    }
   },
   {
     "slug": "dec-18",
@@ -4349,7 +5593,11 @@
     "line1": "Swiss-German painter based in Munich and later Switzerland; a key Bauhaus faculty member alongside Kandinsky.",
     "line2": "Known for paintings including Twittering Machine and Senecio, and his influential Bauhaus teaching notes on color and form.",
     "category": "Fine Artists & Photographers",
-    "categoryCode": "F&P"
+    "categoryCode": "F&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Paul_Klee",
+      "portfolio": "https://www.google.com/search?udm=2&q=Paul+Klee+works"
+    }
   },
   {
     "slug": "dec-19",
@@ -4361,7 +5609,11 @@
     "line1": "British branding consultant based in London; co-founder of Wolff Olins and later founder of Saffron Brand Consultants.",
     "line2": "Known for rebranding Orange and Renault, shaping corporate identity practice worldwide, and writing On Brand and Corporate Identity.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Wally_Olins",
+      "portfolio": "https://www.google.com/search?udm=2&q=Wally+Olins+works"
+    }
   },
   {
     "slug": "dec-20",
@@ -4373,7 +5625,11 @@
     "line1": "Swiss poster artist based in Basel; a master of the mid-century 'Sachplakat' object poster style.",
     "line2": "Known for advertising posters for PKZ menswear, Erdal shoe polish, and Camel cigarettes.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Herbert_Leupin",
+      "portfolio": "https://www.google.com/search?udm=2&q=Herbert+Leupin+works"
+    }
   },
   {
     "slug": "dec-21",
@@ -4385,7 +5641,11 @@
     "line1": "German graphic designer based in Cologne; legendary art director known for radically reinventing magazine layout.",
     "line2": "Known for his photo-driven design of Twen magazine in the 1960s, and the colored spine system for Suhrkamp and Insel book covers.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Willy_Fleckhaus",
+      "portfolio": "https://www.google.com/search?udm=2&q=Willy+Fleckhaus+works"
+    }
   },
   {
     "slug": "dec-22",
@@ -4397,7 +5657,11 @@
     "line1": "Swiss artist and designer based in Zurich; Bauhaus-trained co-founder and first rector of the Ulm School of Design.",
     "line2": "Known for his Concrete Art sculpture, the Junghans wristwatch designs, and the Ulmer Hocker stool.",
     "category": "Digital, Motion & Product Designers",
-    "categoryCode": "D&P"
+    "categoryCode": "D&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Max_Bill",
+      "portfolio": "https://www.google.com/search?udm=2&q=Max+Bill+works"
+    }
   },
   {
     "slug": "dec-23",
@@ -4409,7 +5673,11 @@
     "line1": "[LOW CONFIDENCE] Swiss graphic designer active in the mid-twentieth century, working within the Zurich school of modernist design.",
     "line2": "Known for poster and typographic design produced within Switzerland's postwar International Typographic Style movement.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Hans_Bohn",
+      "portfolio": "https://www.google.com/search?udm=2&q=Hans+Bohn+works"
+    }
   },
   {
     "slug": "dec-24",
@@ -4421,7 +5689,11 @@
     "line1": "Swiss typeface designer based in Münchenstein; worked as a typesetter and sales representative for the Haas Type Foundry.",
     "line2": "Known for co-creating Neue Haas Grotesk with Eduard Hoffmann in 1957, later renamed Helvetica, one of the world's most used typefaces.",
     "category": "Typographers & Type Designers",
-    "categoryCode": "T&T"
+    "categoryCode": "T&T",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Max_Miedinger",
+      "portfolio": "https://www.google.com/search?udm=2&q=Max+Miedinger+works"
+    }
   },
   {
     "slug": "dec-25",
@@ -4433,7 +5705,11 @@
     "line1": "American book jacket designer based in New York; pioneered the bold 'Big Book' paperback cover look of the 1960s.",
     "line2": "Known for the covers of Catch-22, Portnoy's Complaint, and The Exorcist, plus earlier jazz album art for Savoy Records.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Paul_Bacon_(designer)",
+      "portfolio": "https://www.google.com/search?udm=2&q=Paul+Bacon+works"
+    }
   },
   {
     "slug": "dec-26",
@@ -4445,7 +5721,11 @@
     "line1": "Nigerian illustrator based in Lagos; self-taught artist who became Afrobeat's defining album cover artist.",
     "line2": "Known for politically charged cover art for Fela Kuti's Zombie, Coffin for Head of State, and Shuffering and Shmiling.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Lemi_Ghariokwu",
+      "portfolio": "http://www.lemighariokwu.com"
+    }
   },
   {
     "slug": "dec-27",
@@ -4457,7 +5737,11 @@
     "line1": "French illustrator and printmaker based in Paris; a leading caricaturist of the fin-de-siècle satirical press.",
     "line2": "Known for political caricatures in Le Rire and L'Assiette au Beurre, and for prints made during the Dreyfus affair era.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Hermann-Paul",
+      "portfolio": "https://www.google.com/search?udm=2&q=Hermann-Paul+works"
+    }
   },
   {
     "slug": "dec-28",
@@ -4469,7 +5753,11 @@
     "line1": "Spanish photographer and architect based in Valencia; known for meticulously staged, color-coordinated travel photography.",
     "line2": "Known for the long-running Volumes project with Anna Devís, pairing geometric architecture with perfectly matched outfits worldwide.",
     "category": "Fine Artists & Photographers",
-    "categoryCode": "F&P"
+    "categoryCode": "F&P",
+    "links": {
+      "profile": "https://www.google.com/search?udm=2&q=Daniel+Rueda+Anna+Devis+works",
+      "portfolio": "https://www.google.com/search?udm=2&q=Daniel+Rueda+Anna+Devis+works"
+    }
   },
   {
     "slug": "dec-29",
@@ -4481,7 +5769,11 @@
     "line1": "British illustrator and filmmaker based in London; a defining visual artist of modern graphic novels.",
     "line2": "Known for his cover art for Neil Gaiman's The Sandman, the graphic novel Arkham Asylum, and directing the film MirrorMask.",
     "category": "Illustrators & Character Designers",
-    "categoryCode": "I&C"
+    "categoryCode": "I&C",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Dave_McKean",
+      "portfolio": "https://www.davemckean.com"
+    }
   },
   {
     "slug": "dec-30",
@@ -4493,7 +5785,11 @@
     "line1": "Canadian novelist and visual artist based in Vancouver; trained at Emily Carr College of Art and Design.",
     "line2": "Known for coining 'Generation X' in his debut novel, and for public sculptures including Digital Orca in Vancouver.",
     "category": "Fine Artists & Photographers",
-    "categoryCode": "F&P"
+    "categoryCode": "F&P",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Douglas_Coupland",
+      "portfolio": "https://coupland.com"
+    }
   },
   {
     "slug": "dec-31",
@@ -4505,6 +5801,10 @@
     "line1": "Mexican-born graphic designer based in New York; founder and creative director of Alfalfa Studio after roles at Pentagram and Saatchi & Saatchi.",
     "line2": "Known for leading the restoration of Brooklyn's Masstransiscope subway art installation, and for branding and typographic design work.",
     "category": "Graphic & Brand Designers",
-    "categoryCode": "G&B"
+    "categoryCode": "G&B",
+    "links": {
+      "profile": "https://en.wikipedia.org/wiki/Rafael_Esquer",
+      "portfolio": "https://www.alfalfastudio.com"
+    }
   }
 ]

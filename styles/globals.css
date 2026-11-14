@@ -241,6 +241,21 @@ a {
   justify-content: center;
   overflow: hidden;
   margin: 10px 0 20px;
+  /* One-shot shrink/grow "mask" transition: holding the dial (drag, or any
+     tap/Today/month jump) shrinks this circle down to a small pulsing dot
+     that hides the portrait while the day underneath changes, then grows
+     back to reveal the new portrait on release -- replacing the old
+     slide-in-from-side animation, which read as a flashy white flash on
+     every change. This element owns ONLY a `transition` on `transform`,
+     never an `animation` -- see .portrait-pulse-wrap below for why that
+     split matters. */
+  transform: scale(1);
+  transition: transform 260ms cubic-bezier(0.4, 0, 0.2, 1);
+  will-change: transform;
+}
+
+.portrait-circle.portrait-shrink {
+  transform: scale(0.16);
 }
 
 .portrait-circle img {
@@ -249,54 +264,40 @@ a {
   object-fit: contain;
 }
 
-/* Day-dial navigation slides the incoming portrait in from whichever side
-   the clicked day was sitting on: left-side days bring the next portrait in
-   right-to-left, right-side days bring it in left-to-right. Uses the same
-   cubic-bezier easing curve as the dial's own spin (.dial-scroll's 750ms
-   transition) so the two motions share one visual "signature" instead of
-   the dial gliding to a stop and the portrait then snapping in on its own
-   rhythm -- the duration is shorter (550ms) since this animation only
-   starts once the dial has already finished (the portrait swaps in after
-   navigation completes), so matching the dial's full 750ms here would
-   just add dead time rather than smoothness. Opacity reaches full well
-   before the slide finishes (60%) so the image is already clearly visible
-   for most of the glide, and the travel distance is much shorter than
-   before (45% -> 16%) so it reads as a gentle drift into place rather
-   than a dart across the frame. */
-@keyframes slide-in-from-right {
-  0% {
-    transform: translateX(16%);
-    opacity: 0;
-  }
-  60% {
-    opacity: 1;
-  }
+/* The looping pulse (shown only while the mask is held shrunk) lives on
+   this separate inner wrapper rather than directly on .portrait-circle.
+   Mixing a CSS `transition` and an `animation` on the same element's
+   `transform` is unreliable across browsers when the animation class is
+   removed -- there's no guaranteed smooth hand-off from the animation's
+   last interpolated value back to the transition's target, so it can
+   visibly snap. Keeping the outer circle's shrink/grow as a pure
+   transition (always smooth) and the inner wrapper's pulse as a pure
+   animation (on its own, much smaller scale range) means even if the
+   inner pulse's own removal isn't perfectly smooth, it's a minor wobble
+   happening underneath the outer circle's dominant, always-smooth
+   0.16 -> 1 grow -- reading as one continuous motion. */
+.portrait-pulse-wrap {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: scale(1);
+  transition: transform 180ms ease-out;
+}
+
+.portrait-pulse-wrap.pulsing {
+  animation: portrait-pulse 900ms ease-in-out infinite;
+}
+
+@keyframes portrait-pulse {
+  0%,
   100% {
-    transform: translateX(0);
-    opacity: 1;
+    transform: scale(1);
   }
-}
-
-@keyframes slide-in-from-left {
-  0% {
-    transform: translateX(-16%);
-    opacity: 0;
+  50% {
+    transform: scale(1.3);
   }
-  60% {
-    opacity: 1;
-  }
-  100% {
-    transform: translateX(0);
-    opacity: 1;
-  }
-}
-
-.portrait-circle img.slide-from-right {
-  animation: slide-in-from-right 550ms cubic-bezier(0.65, 0, 0.35, 1);
-}
-
-.portrait-circle img.slide-from-left {
-  animation: slide-in-from-left 550ms cubic-bezier(0.65, 0, 0.35, 1);
 }
 
 .portrait-fallback {

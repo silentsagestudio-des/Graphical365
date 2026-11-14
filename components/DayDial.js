@@ -1,7 +1,7 @@
 import { useRouter } from "next/router";
 import { useRef, useState, useEffect } from "react";
 import { getTodaySlug } from "../lib/today";
-import { setPendingDirection } from "../lib/navDirection";
+import { shrinkPortrait, growPortrait, SHRINK_MS } from "../lib/portraitMask";
 
 const DAYS_IN_MONTH_BY_NAME = {
   January: 31,
@@ -93,11 +93,24 @@ export default function DayDial({ designers, current }) {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [current.day, current.month]);
 
+  // Shared by every "jump straight to a slug with no dial spin" path
+  // (same-day tap, Today across months, the month dropdown): shrinks the
+  // portrait to its masking dot, waits for that shrink to finish, then
+  // navigates -- Portrait itself grows it back once it mounts with the
+  // new slug.
+  const transitionToSlug = (slug) => {
+    if (!slug || slug === current.slug) return;
+    shrinkPortrait();
+    window.setTimeout(() => {
+      router.push(`/day/${slug}`);
+    }, SHRINK_MS);
+  };
+
   const spinTo = (targetDay, slug) => {
     if (animatingRef.current) return;
 
     if (targetDay === displayDay) {
-      if (slug && slug !== current.slug) router.push(`/day/${slug}`);
+      transitionToSlug(slug);
       return;
     }
 
@@ -105,13 +118,12 @@ export default function DayDial({ designers, current }) {
     const prevMod = ((rotation % 360) + 360) % 360;
     const delta = shortestDelta(prevMod, targetMod);
 
-    // The portrait slides in the same rotational sense as the dial itself
-    // -- a clockwise spin (delta > 0) sweeps the numbers past the top
-    // marker left-to-right, so the incoming portrait also moves left-to-
-    // right (enters from the left) instead of fighting the dial's own
-    // sweep direction.
+    // Mask the portrait for the duration of the spin -- it shrinks to a
+    // small pulsing dot while the dial turns and hides whichever day is
+    // currently underneath, then Portrait grows it back once the new
+    // page has mounted.
     if (slug) {
-      setPendingDirection(delta > 0 ? "fromLeft" : "fromRight");
+      shrinkPortrait();
     }
 
     animatingRef.current = true;
@@ -123,7 +135,7 @@ export default function DayDial({ designers, current }) {
     // between the dial settling and the portrait appearing.
     if (slug) router.prefetch(`/day/${slug}`);
 
-    // Navigation (and so the portrait's own transition) fires before the
+    // Navigation (and so the portrait's own reveal) fires before the
     // dial's spin visually finishes, so the two motions overlap instead of
     // running one after another.
     window.setTimeout(() => {
@@ -132,6 +144,9 @@ export default function DayDial({ designers, current }) {
 
     window.setTimeout(() => {
       animatingRef.current = false;
+      // Safety net: if navigation never happened (no slug for this day),
+      // make sure the portrait doesn't stay stuck shrunk.
+      if (!slug) growPortrait();
     }, SPIN_MS);
   };
 
@@ -204,6 +219,10 @@ export default function DayDial({ designers, current }) {
       if (drag.traveled < DRAG_THRESHOLD_DEG) return;
       drag.moved = true;
       setIsDragging(true);
+      // Mask the portrait the moment the drag is recognized -- it stays
+      // shrunk and pulsing for as long as the finger keeps moving through
+      // the numbers.
+      shrinkPortrait();
     }
 
     e.preventDefault();
@@ -229,6 +248,10 @@ export default function DayDial({ designers, current }) {
       const prevMod = ((drag.rotation % 360) + 360) % 360;
       setRotation(drag.rotation + shortestDelta(prevMod, targetMod));
       if (slug && slug !== current.slug) router.push(`/day/${slug}`);
+      // No new portrait is coming in (it's the same day the drag landed
+      // back on) -- release the mask the drag shrank right away instead
+      // of waiting on a navigation/mount that isn't going to happen.
+      growPortrait();
       return;
     }
 
@@ -250,7 +273,7 @@ export default function DayDial({ designers, current }) {
     if (today.month === current.month) {
       spinTo(today.day, today.slug);
     } else if (today.slug !== current.slug) {
-      router.push(`/day/${today.slug}`);
+      transitionToSlug(today.slug);
     }
   };
 
@@ -263,7 +286,7 @@ export default function DayDial({ designers, current }) {
       designers.find((d) => d.month === monthName && d.day === 1) ||
       designers.find((d) => d.month === monthName);
     if (target && target.slug !== current.slug) {
-      router.push(`/day/${target.slug}`);
+      transitionToSlug(target.slug);
     }
   };
 
